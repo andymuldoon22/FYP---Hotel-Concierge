@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\9bd0e3a8ed87514d7d5ce90e10578ff73c6abbda\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\Users\Owner\Desktop\FYP\HotelConcierge\platforms\android\app\build\intermediates\pre-dexed\debug\classes_90c7d6d3ef665503b2af3f7ecc407fec3e13c49f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\c1046ddf620c948e064f0022f40f1d1e9c6b5d2f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ada15dd7aad50793dcd67b281a8eb06e80007500">
+        <dex dex="C:\Users\Owner\Desktop\FYP\HotelConcierge\platforms\android\app\build\intermediates\pre-dexed\debug\classes_a5669917645f6127f7abee9ba4d10f6b70617d09.jar" />
+    </item>
+
+</items>
