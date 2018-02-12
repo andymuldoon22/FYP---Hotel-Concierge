@@ -8,7 +8,7 @@
 android {  
   defaultConfig {  
     generatedDensities = []
-    applicationId = "org.nativescript.HotelConcierge" 
+    applicationId = "org.nativescript.HotelApp" 
     
     //override supported platforms
     // ndk {

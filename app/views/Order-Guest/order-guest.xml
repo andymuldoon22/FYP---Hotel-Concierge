@@ -1,0 +1,15 @@
+<Page xmlns:df="nativescript-pro-ui/dataform" xmlns="http://schemas.nativescript.org/tns.xsd" loaded="pageLoaded">
+    <ActionBar title="Order">
+		<NavigationButton text="Go Back" android.systemIcon="ic_menu_back"></NavigationButton>
+	</ActionBar>
+    <StackLayout class="p-20">
+	    <Label text="Required Textfield" class="h1 text-center"></Label>
+	    <TextField required hint="fill this out..." [(ngModel)]="textField" #element #elementModel="ngModel"></TextField>
+	    <Label text="Required Textfield" class="h1 text-center"></Label>
+	    <TextField required hint="fill this out..." [(ngModel)]="textField" #element #elementModel="ngModel"></TextField>
+	    <Label text="Required Textfield" class="h1 text-center"></Label>
+	    <TextField required hint="fill this out..." [(ngModel)]="textField" #element #elementModel="ngModel"></TextField>
+	    <Label text="Required Textfield" class="h1 text-center"></Label>
+	    <TextField required hint="fill this out..." [(ngModel)]="textField" #element #elementModel="ngModel"></TextField>
+	</StackLayout>
+</Page>

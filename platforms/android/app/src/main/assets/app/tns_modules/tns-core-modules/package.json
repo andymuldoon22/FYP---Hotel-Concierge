@@ -21,7 +21,7 @@
   "_resolved": "https://registry.npmjs.org/tns-core-modules/-/tns-core-modules-3.1.1.tgz",
   "_shasum": "7b389c42dd6c10db2d1adfbc6c91031703e50dd5",
   "_spec": "tns-core-modules@~3.1.0",
-  "_where": "C:\\Users\\Owner\\Desktop\\FYP\\HotelConcierge\\node_modules\\nativescript-template-tutorial",
+  "_where": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\node_modules\\nativescript-template-tutorial",
   "bundleDependencies": false,
   "dependencies": {
     "tns-core-modules-widgets": "3.1.1"

@@ -1,0 +1,23 @@
+<!-- <Page loaded="pageLoaded">
+  <ActionBar title="My App" class="action-bar"></ActionBar> -->
+  <!-- Your UI components go here -->
+
+<!-- </Page> -->
+<!-- Login -->
+
+<Page loaded="loaded">
+	<ActionBar title="Customer LogIn">
+<!-- 	  <android>
+ -->	  	<NavigationButton text="Menu" android.systemIcon="ic_menu" tap="showSlideout"></NavigationButton>
+	    <!-- <NavigationButton icon="res://ic_menu" tap="showSlideout" /> -->
+	  <!-- </android> -->
+	</ActionBar>
+	<StackLayout orientation="vertical">
+		<Image src="~/images/concierge.jpg" stretch="none" horizontalAlignment="center"></Image>
+		<TextField id="email" text="{{ email }}" hint="Email Address" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
+		<TextField secure="true" text="{{ password }}" hint="Password" />
+
+		<Button text="Log In" tap="login"/>
+		<Button text="Sign Up" class="link" tap="signup"/>
+	</StackLayout>
+</Page>
