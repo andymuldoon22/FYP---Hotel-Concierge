@@ -1,17 +1,19 @@
-<!-- <Page loaded="pageLoaded">
-  <ActionBar title="My App" class="action-bar"></ActionBar> -->
-  <!-- Your UI components go here -->
-
-<!-- </Page> -->
-<!-- Login -->
-
 <Page loaded="loaded">
-	<ActionBar title="Customer LogIn">
-<!-- 	  <android>
- -->	  	<NavigationButton text="Menu" android.systemIcon="ic_menu" tap="showSlideout"></NavigationButton>
-	    <!-- <NavigationButton icon="res://ic_menu" tap="showSlideout" /> -->
-	  <!-- </android> -->
-	</ActionBar>
+	<!-- <ActionBar title="Customer LogIn" xmlns="http://schemas.nativescript.org/tns.xsd">
+		
+		 <NavigationButton text="Go Back" android.systemIcon="title_bar"></NavigationButton>
+
+	</ActionBar> -->
+	<ActionBar title="SideDrawer Button">
+  <android>
+    <NavigationButton icon="res://ic_menu" tap="showSideDrawer" />
+  </android>
+  </ActionBar>
+<!-- 	<ActionBar title="Customer LogIn">
+		 <NavigationButton icon="res://ic_menu" tap="showSideDrawer" />
+ 	  	<NavigationButton text="Menu" android.systemIcon="ic_menu" tap="showSlideout"></NavigationButton>
+
+	</ActionBar> -->
 	<StackLayout orientation="vertical">
 		<Image src="~/images/concierge.jpg" stretch="none" horizontalAlignment="center"></Image>
 		<TextField id="email" text="{{ email }}" hint="Email Address" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
@@ -19,5 +21,6 @@
 
 		<Button text="Log In" tap="login"/>
 		<Button text="Sign Up" class="link" tap="signup"/>
+		<Button text="Switch to Service Provider" tap="ToServiceProvider"/>
 	</StackLayout>
 </Page>

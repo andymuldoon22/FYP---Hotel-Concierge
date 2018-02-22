@@ -1,7 +1,15 @@
 [
     {
+        "name": "nativescript-drop-down",
+        "directory": "..\\..\\node_modules\\nativescript-drop-down"
+    },
+    {
         "name": "nativescript-pro-ui",
         "directory": "..\\..\\node_modules\\nativescript-pro-ui"
+    },
+    {
+        "name": "nativescript-social-share",
+        "directory": "..\\..\\node_modules\\nativescript-social-share"
     },
     {
         "name": "nativescript-theme-core",

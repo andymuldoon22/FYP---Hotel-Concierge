@@ -1,6 +1,11 @@
 C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\src\main\assets\app\app.js
 C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\src\main\assets\app\main-page.js
+C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\src\main\assets\app\tns_modules\nativescript-drop-down\drop-down-common.js
+C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\src\main\assets\app\tns_modules\nativescript-drop-down\drop-down.js
+C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\src\main\assets\app\tns_modules\nativescript-drop-down\uglify-mangle-excludes.js
+C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\src\main\assets\app\tns_modules\nativescript-drop-down\angular\index.js
 C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\src\main\assets\app\tns_modules\nativescript-pro-ui\scripts\eula-prompt.js
+C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\src\main\assets\app\tns_modules\nativescript-social-share\social-share.js
 C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\bundle-entry-points.js
 C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\application\application-common.js
 C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\application\application.js
@@ -156,3 +161,4 @@ C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\src\main\assets\app\vi
 C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\src\main\assets\app\views\Main-Guest\main-guest.js
 C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\src\main\assets\app\views\Order-Guest\order-guest.js
 C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\src\main\assets\app\views\Signup-Guest\signup-guest.js
+C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\src\main\assets\app\views\Signup-ServiceProvider\signup-serviceprovider.js

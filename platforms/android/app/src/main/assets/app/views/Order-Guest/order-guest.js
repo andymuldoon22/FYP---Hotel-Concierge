@@ -8,6 +8,14 @@ var user = new observableModule.fromObject({
 	password: "password"
 });
 
+
+//onclick="window.history.go(-1); return false;"
+
+exports.onNavBtnTap = function(args){
+	console.log("backwards");
+	var topmost = frameModule.topmost();
+	topmost.navigate("views/Main-Guest/main-guest");
+}
 exports.guest_main = function(args) {
 	guest = args.object;
 	console.log("guest");

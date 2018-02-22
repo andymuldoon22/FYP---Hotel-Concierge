@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeF0F1DebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Owner\\.android\\build-cache\\0b6e22533a49c4613d338cc5c66a2ff90a7f09aa\\output\\res\\values-w820dp-v13\\values-w820dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            }
+        ]
+    }
+]

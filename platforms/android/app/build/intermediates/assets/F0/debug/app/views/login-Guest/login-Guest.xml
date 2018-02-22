@@ -19,5 +19,6 @@
 
 		<Button text="Log In" tap="login"/>
 		<Button text="Sign Up" class="link" tap="signup"/>
+		<Button text="Switch to Service Provider" tap="ToServiceProvider"/>
 	</StackLayout>
 </Page>

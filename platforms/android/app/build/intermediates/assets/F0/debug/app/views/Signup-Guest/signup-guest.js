@@ -7,7 +7,11 @@ exports.pageLoaded = function() {
 	console.log("hello");
 };
 
-
+exports.ToServiceProvider = function(){
+	console.log("ToServiceProvider");
+	//var topmost = frameModule.topmost();
+	//topmost.navigate("views/Signup-ServiceProvider/signup-serviceprovider");
+};
 
 
 exports.signup = function(){

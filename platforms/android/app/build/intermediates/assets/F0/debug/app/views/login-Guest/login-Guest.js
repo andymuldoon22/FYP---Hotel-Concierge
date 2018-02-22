@@ -1,6 +1,7 @@
 var frameModule = require("ui/frame");
 var page;
 var email;
+
 var observableModule = require("data/observable");
 var user = new observableModule.fromObject({
 	email: "user@domain.com",
@@ -33,7 +34,11 @@ exports.login = function(){
 	topmost.navigate("views/Main-Guest/main-guest");
 };
 
-
+exports.ToServiceProvider = function(){
+	console.log("ToServiceProvider whoop whoop");
+	var topmost = frameModule.topmost();
+	topmost.navigate("views/Signup-ServiceProvider/signup-serviceprovider");
+};
 exports.signup = function(){
 	//alert("Signing In");
 	var topmost = frameModule.topmost();

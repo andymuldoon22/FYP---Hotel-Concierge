@@ -1,0 +1,22 @@
+<Page xmlns:df="nativescript-pro-ui/dataform" xmlns="http://schemas.nativescript.org/tns.xsd" xmlns:dd="nativescript-drop-down" loaded="pageLoaded">
+    <ActionBar title="Request to join the app">
+		<NavigationButton text="Go Back" android.systemIcon="ic_menu_back"></NavigationButton>
+	</ActionBar>
+    <StackLayout class="p-20">
+	    <Label text="Company Name"></Label>
+	    <TextField hint="fill this out..." ></TextField>
+	    <Label text="Email Address"></Label>
+		<TextField hint="fill this out..." ></TextField>
+	    <Label text="Work Phone"></Label>
+		<TextField hint="fill this out..." ></TextField>	    
+		<Label text="Address 1"></Label>
+		<TextField hint="fill this out..." ></TextField>	    
+		<Label text="Address 2"></Label>
+		<TextField hint="fill this out..." ></TextField>
+		<Label text="City"></Label>
+		<TextField hint="fill this out..." ></TextField>	    
+		<Label text="County"></Label>
+		<TextField hint="fill this out..." ></TextField>
+		<dd:DropDown items="{{ items }}" selectedIndex="{{ selectedIndex }}" opened="dropDownOpened" selectedIndexChanged="dropDownSelectedIndexChanged" />	
+	</StackLayout>
+</Page>
