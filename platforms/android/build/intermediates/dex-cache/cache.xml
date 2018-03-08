@@ -3,93 +3,48 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\Owner\.android\build-cache\687007663d4dd55e382caf8c935aa8e5859dc7c6\output\jars\classes.jar"
+        jar="C:\Users\Owner\.android\build-cache\e8ae01cb2c4fbe602826d0b0f01d5adcf0267901\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="5d9328d50f44ddcd29c1efb973fe65c449ac2ee9">
-        <dex dex="C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_d47766da63939192746bd41957cdd8e9cee7f683.jar" />
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_e456cbe83cc85f32418379b18ef9bcc3dbacd891.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Owner\.android\build-cache\0b9957ff0264441dfbfe0024654f306236491ae5\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="982e84611278a70cb494816d909f689869345cd8">
-        <dex dex="C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_1074877054152cf90e8c07c8080de0cad9234d9b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Owner\.android\build-cache\5e48b1e9ffee5e6a4aadd7284f3472d36bf04360\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9bfec718689ce8acd54ce41541b34af4efb4e226">
-        <dex dex="C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_64adc5893b91f648d4a12235c3c6d8660dc9eff2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Owner\.android\build-cache\2da6e42c12e65e358c8688a869bfb209c00dcfed\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b1339b01865e16e475d64a245fe529682451a67d">
-        <dex dex="C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_b8f820371efc67d1bef324d74a533990cdf0783b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Owner\.android\build-cache\0b6e22533a49c4613d338cc5c66a2ff90a7f09aa\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7a23b91bd7ef759a98228829e925770b50948873">
-        <dex dex="C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_a45f6bf05d3383b4546c2c32035014fad0d6f578.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Owner\.android\build-cache\d3009c7158955b92d97f80331174095f2e310a07\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4aaacb48560463db840621574ac215bbd71b5a1c">
-        <dex dex="C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_b463b322eda99ae0e73b13de764d530c943e6f2a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Owner\.android\build-cache\ec0b88b481045a5c0bfa68961c4dbbe9c84e5f34\output\jars\classes.jar"
+        jar="C:\Users\Owner\.android\build-cache\126d3eaa5c1218633015cbe98f2f4f26437be73d\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="746274223beb11b1cda7854d7eec3038695c2c93">
-        <dex dex="C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\build\intermediates\pre-dexed\debug\classes_0caddd2319192383b6e74c061f55ada435792654.jar" />
+        <dex dex="C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_139d77f1dbafe77781b48049a0470dd509103271.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Owner\.android\build-cache\de8451595d08bd42a9c860e3141acb18de790c44\output\jars\classes.jar"
+        jar="C:\Users\Owner\.android\build-cache\d44bd39af6b02d4ddf94be1c052fab714ece3abd\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="9971eabe5d806f8e9037f967c7dddf4331b5a871">
-        <dex dex="C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_6043090472228fa3ff66671c29f84b19ce1cc39e.jar" />
+        sha1="83f711d70ef9ce041ead02bc16e944130c58d05a">
+        <dex dex="C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_5b586653a0daf6649e2c60fc5b0184abbe790501.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Owner\.android\build-cache\015cf53a436687ff646e698ecd8de6abf6514ce6\output\jars\classes.jar"
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="c9cdba8dae1f4168869483047ff5e5c72ad46d42">
-        <dex dex="C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_7639f7669b6362e5f9e60604c6054952ae418e9d.jar" />
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\F0\debug\gson-2.4_b03f485fe1919542211a8c0aa4b31ece928a21b9.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Owner\.android\build-cache\df29fb15ccdf7b18da520ed9109de5e64511a819\output\jars\classes.jar"
+        jar="C:\Users\Owner\.android\build-cache\f3e508922f87151d8f83c6b43b2333c9132a6ec6\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="999137e347707ccec61d19e49c15d11f20db7a3b">
-        <dex dex="C:\Users\Owner\Desktop\FYP\HotelApp\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_8a4553f4847906feb9ae76bea6ad3db42e5f0723.jar" />
+        sha1="9b5a7bd266567dc83b7f0dd42fc36b08bed3ac19">
+        <dex dex="C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_d4f2bacc0d04ef175c3603daa7347c3a3498c8b1.jar" />
     </item>
 
 </items>

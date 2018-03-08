@@ -1,5 +1,17 @@
 [
     {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\xml\\chart_palettes_light_selected.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2823ae7a1905a804136e5fd94ff6e5b085ea9750\\output\\res\\xml\\chart_palettes_light_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\xml\\chart_palettes_default_dark.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2823ae7a1905a804136e5fd94ff6e5b085ea9750\\output\\res\\xml\\chart_palettes_default_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\xml\\chart_palettes_dark_selected.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2823ae7a1905a804136e5fd94ff6e5b085ea9750\\output\\res\\xml\\chart_palettes_dark_selected.xml"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\xml\\chart_palettes_light_selected.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\687007663d4dd55e382caf8c935aa8e5859dc7c6\\output\\res\\xml\\chart_palettes_light_selected.xml"
     },
@@ -8,12 +20,20 @@
         "source": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\src\\F1\\res\\xml\\provider_paths.xml"
     },
     {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\xml\\chart_palettes_default_light.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2823ae7a1905a804136e5fd94ff6e5b085ea9750\\output\\res\\xml\\chart_palettes_default_light.xml"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\xml\\chart_palettes_dark_selected.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\687007663d4dd55e382caf8c935aa8e5859dc7c6\\output\\res\\xml\\chart_palettes_dark_selected.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\xml\\chart_palettes_default_dark.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\687007663d4dd55e382caf8c935aa8e5859dc7c6\\output\\res\\xml\\chart_palettes_default_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\src\\F1\\res\\xml\\provider_paths.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\xml\\chart_palettes_default_light.xml",

@@ -1,9 +1,13 @@
 {
-    "email-validator": true,
-    "nativescript-drop-down": true,
-    "nativescript-pro-ui": true,
-    "nativescript-social-share": true,
+    "kinvey-nativescript-sdk": true,
+    "nativescript-imagepicker": true,
     "nativescript-theme-core": true,
     "tns-core-modules": true,
-    "tns-core-modules-widgets": true
+    "nativescript-sqlite": true,
+    "rxjs": true,
+    "nativescript-permissions": true,
+    "nativescript-ui-core": true,
+    "nativescript-ui-listview": true,
+    "tns-core-modules-widgets": true,
+    "symbol-observable": true
 }

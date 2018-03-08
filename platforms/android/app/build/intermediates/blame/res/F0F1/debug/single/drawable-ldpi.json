@@ -1,5 +1,17 @@
 [
     {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\background.png",
+        "source": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\logo.png",
+        "source": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\icon.png",
+        "source": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\logo.png",
         "source": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
     },

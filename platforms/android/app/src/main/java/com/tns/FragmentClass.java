@@ -21,6 +21,11 @@ public class FragmentClass extends android.app.Fragment implements com.tns.Nativ
 		return (android.animation.Animator)com.tns.Runtime.callJSMethod(this, "onCreateAnimator", android.animation.Animator.class, args);
 	}
 
+	public void onStop()  {
+		java.lang.Object[] args = null;
+		com.tns.Runtime.callJSMethod(this, "onStop", void.class, args);
+	}
+
 	public void onCreate(android.os.Bundle param_0)  {
 		java.lang.Object[] args = new java.lang.Object[1];
 		args[0] = param_0;

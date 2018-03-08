@@ -18,6 +18,8 @@
 		<TextField hint="fill this out..." ></TextField>
 		<Label text="County"></Label>
 		<dd:DropDown items="{{ items }}" selectedIndex="{{ selectedIndex }}" opened="dropDownOpened" selectedIndexChanged="dropDownSelectedIndexChanged" />	
+		<Label text="Service Provided"></Label>
+		<dd:DropDown items="{{ services }}" selectedIndex="{{ selectedIndex2 }}" opened="dropDownOpened" selectedIndexChanged="dropDownSelectedIndexChanged" />	
 		<Button text="Submit" type="Submit" tap="submit"/>	    
 	</StackLayout>
 	</ScrollView>

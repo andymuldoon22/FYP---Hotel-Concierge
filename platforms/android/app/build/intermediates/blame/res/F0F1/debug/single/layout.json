@@ -4,6 +4,10 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\drawer_blur_fade_layer.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\d3009c7158955b92d97f80331174095f2e310a07\\output\\res\\layout\\drawer_blur_fade_layer.xml"
     },
@@ -12,24 +16,40 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\0b6e22533a49c4613d338cc5c66a2ff90a7f09aa\\output\\res\\layout\\activity_send_feedback.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_time_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_time_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_list_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_list_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_seek_bar_editor.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_seek_bar_editor.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_editor_layout_1.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_editor_layout_1.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\activity_send_feedback.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\1f960a9d616ee4196d27810819bf2bd5fd74df69\\output\\res\\layout\\activity_send_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\feedback_comment.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\0b6e22533a49c4613d338cc5c66a2ff90a7f09aa\\output\\res\\layout\\feedback_comment.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_toggle_button_editor.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_toggle_button_editor.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\feedback_comment.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\0b6e22533a49c4613d338cc5c66a2ff90a7f09aa\\output\\res\\layout\\feedback_comment.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\drawer_blur_fade_layer.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\20baea440dcba434eacb27f71c7d4270b68c62c7\\output\\res\\layout\\drawer_blur_fade_layer.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_select_dialog_material.xml",
@@ -40,10 +60,6 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\tooltip_container.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\687007663d4dd55e382caf8c935aa8e5859dc7c6\\output\\res\\layout\\tooltip_container.xml"
-    },
-    {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_editor_layout_2.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_editor_layout_2.xml"
     },
@@ -52,32 +68,20 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_segmented_editor.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_segmented_editor.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_radio_group_editor.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_radio_group_editor.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\tooltip_container.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2823ae7a1905a804136e5fd94ff6e5b085ea9750\\output\\res\\layout\\tooltip_container.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_spinner_item.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_spinner_item.xml"
-    },
-    {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_screen_content_include.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\error_activity.xml",
-        "source": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\src\\debug\\res\\layout\\error_activity.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\token.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\478f30dcffecbd0ac17f8bf7cd239f04ec9654a4\\output\\res\\layout\\token.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\trackball_container.xml",
@@ -88,72 +92,52 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_text_viewer.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_text_viewer.xml"
-    },
-    {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_list_menu_item_checkbox.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_navigation_item.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_navigation_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\notification_template_icon_group.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_checkbox_editor.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_checkbox_editor.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\legend_item_view.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\687007663d4dd55e382caf8c935aa8e5859dc7c6\\output\\res\\layout\\legend_item_view.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_radio_group_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_radio_group_editor.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\activity_view_feedback_item.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\0b6e22533a49c4613d338cc5c66a2ff90a7f09aa\\output\\res\\layout\\activity_view_feedback_item.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_rad_autocomplete_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_rad_autocomplete_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_alert_dialog_title_material.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\calendar_day_event_view.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\de8451595d08bd42a9c860e3141acb18de790c44\\output\\res\\layout\\calendar_day_event_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\inline_event.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\de8451595d08bd42a9c860e3141acb18de790c44\\output\\res\\layout\\inline_event.xml"
-    },
-    {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_list_editor.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_list_editor.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_root_layout.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_root_layout.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\token.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\df29fb15ccdf7b18da520ed9109de5e64511a819\\output\\res\\layout\\token.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\activity_view_feedback.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\0b6e22533a49c4613d338cc5c66a2ff90a7f09aa\\output\\res\\layout\\activity_view_feedback.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\ohlc_trackball_item_content.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\687007663d4dd55e382caf8c935aa8e5859dc7c6\\output\\res\\layout\\ohlc_trackball_item_content.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_root_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_root_layout.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\main_menu_content.xml",
@@ -176,6 +160,18 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\d3009c7158955b92d97f80331174095f2e310a07\\output\\res\\layout\\navigation_item_view.xml"
     },
     {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_text_viewer.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_text_viewer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_editor_layout_1.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_editor_layout_1.xml"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\default_tooltip_content.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\687007663d4dd55e382caf8c935aa8e5859dc7c6\\output\\res\\layout\\default_tooltip_content.xml"
     },
@@ -184,28 +180,36 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\0b6e22533a49c4613d338cc5c66a2ff90a7f09aa\\output\\res\\layout\\main_menu_list_item.xml"
     },
     {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\default_tooltip_content.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2823ae7a1905a804136e5fd94ff6e5b085ea9750\\output\\res\\layout\\default_tooltip_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\default_trackball_content.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\687007663d4dd55e382caf8c935aa8e5859dc7c6\\output\\res\\layout\\default_trackball_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_navigation_item_header.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_navigation_item_header.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\activity_edit_details.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\0b6e22533a49c4613d338cc5c66a2ff90a7f09aa\\output\\res\\layout\\activity_edit_details.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\default_tooltip_ohlc_content.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\687007663d4dd55e382caf8c935aa8e5859dc7c6\\output\\res\\layout\\default_tooltip_ohlc_content.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_editor_header_layout_3.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_editor_header_layout_3.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\notification_template_media_custom.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\range_trackball_item_content.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\687007663d4dd55e382caf8c935aa8e5859dc7c6\\output\\res\\layout\\range_trackball_item_content.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\select_dialog_multichoice_material.xml",
@@ -220,12 +224,16 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\range_trackball_item_content.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2823ae7a1905a804136e5fd94ff6e5b085ea9750\\output\\res\\layout\\range_trackball_item_content.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_list_editor_item.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_list_editor_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\default_tooltip_ohlc_content.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2823ae7a1905a804136e5fd94ff6e5b085ea9750\\output\\res\\layout\\default_tooltip_ohlc_content.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_navigation_item_subheader.xml",
@@ -236,92 +244,32 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_expandable_group_layout.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_expandable_group_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_navigation_menu_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\number_picker.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\number_picker.xml"
-    },
-    {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_rad_autocomplete_editor.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_rad_autocomplete_editor.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\default_tooltip_scatter_content.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\687007663d4dd55e382caf8c935aa8e5859dc7c6\\output\\res\\layout\\default_tooltip_scatter_content.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_layout_tab_text.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_editor_header_layout_2.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_editor_header_layout_2.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_linear_layout.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_linear_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_layout_snackbar_include.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_switch_editor.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_switch_editor.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_decimal_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_decimal_editor.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_bottom_sheet_dialog.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_navigation_item_separator.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_date_editor.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_date_editor.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\feedback_indicator.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\0b6e22533a49c4613d338cc5c66a2ff90a7f09aa\\output\\res\\layout\\feedback_indicator.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_autocomplete_editor.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_autocomplete_editor.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\default_trackball_content.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2823ae7a1905a804136e5fd94ff6e5b085ea9750\\output\\res\\layout\\default_trackball_content.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\calendar_all_day_event_view.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\de8451595d08bd42a9c860e3141acb18de790c44\\output\\res\\layout\\calendar_all_day_event_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_editor_header_layout_3.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_editor_header_layout_3.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_menu_item_action_area.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\default_tooltip_scatter_bubble_content.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\687007663d4dd55e382caf8c935aa8e5859dc7c6\\output\\res\\layout\\default_tooltip_scatter_bubble_content.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_activity_chooser_view.xml",
@@ -332,8 +280,20 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\5e48b1e9ffee5e6a4aadd7284f3472d36bf04360\\output\\res\\layout\\simple_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\popup_edit_details.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\0b6e22533a49c4613d338cc5c66a2ff90a7f09aa\\output\\res\\layout\\popup_edit_details.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_label_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_label_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_root_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_root_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\ohlc_trackball_item_content.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2823ae7a1905a804136e5fd94ff6e5b085ea9750\\output\\res\\layout\\ohlc_trackball_item_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\default_trackball_item_content.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2823ae7a1905a804136e5fd94ff6e5b085ea9750\\output\\res\\layout\\default_trackball_item_content.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_action_mode_close_item_material.xml",
@@ -352,16 +312,20 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_list_editor_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_list_editor_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_group_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_group_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\notification_template_lines_media.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\notification_template_lines_media.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_label_editor.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_label_editor.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_integer_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_integer_editor.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_layout_tab_text.xml",
@@ -372,8 +336,12 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\fragment_feedback_items.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\0b6e22533a49c4613d338cc5c66a2ff90a7f09aa\\output\\res\\layout\\fragment_feedback_items.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_text_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_text_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\feedback_comment.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\1f960a9d616ee4196d27810819bf2bd5fd74df69\\output\\res\\layout\\feedback_comment.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\select_dialog_singlechoice_material.xml",
@@ -384,10 +352,6 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_decimal_editor.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_default_group_layout.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_default_group_layout.xml"
     },
@@ -396,40 +360,40 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_layout_snackbar.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_spinner_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_spinner_editor.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_number_picker.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_number_picker.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_editor_validation_layout_1.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_editor_validation_layout_1.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\feedback_item.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\0b6e22533a49c4613d338cc5c66a2ff90a7f09aa\\output\\res\\layout\\feedback_item.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\on_demand_automatic.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\5e48b1e9ffee5e6a4aadd7284f3472d36bf04360\\output\\res\\layout\\on_demand_automatic.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_time_editor.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_time_editor.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\main_menu_list_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\1f960a9d616ee4196d27810819bf2bd5fd74df69\\output\\res\\layout\\main_menu_list_item.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\logcat_tab.xml",
         "source": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\src\\debug\\res\\layout\\logcat_tab.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\default_trackball_item_content.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\687007663d4dd55e382caf8c935aa8e5859dc7c6\\output\\res\\layout\\default_trackball_item_content.xml"
-    },
-    {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_group_layout.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_group_layout.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\inline_event.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\8207fb69f7a58e95e6317c71415d712cb02a4c2d\\output\\res\\layout\\inline_event.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\simple_group_header_item.xml",
@@ -440,20 +404,32 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_text_editor.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\list_progress_indicator.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\0b6e22533a49c4613d338cc5c66a2ff90a7f09aa\\output\\res\\layout\\list_progress_indicator.xml"
-    },
-    {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_text_input_password_icon.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_text_input_password_icon.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\feedback_indicator.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\1f960a9d616ee4196d27810819bf2bd5fd74df69\\output\\res\\layout\\feedback_indicator.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\notification_action.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\popup_event.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\8207fb69f7a58e95e6317c71415d712cb02a4c2d\\output\\res\\layout\\popup_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\popup_edit_details.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\1f960a9d616ee4196d27810819bf2bd5fd74df69\\output\\res\\layout\\popup_edit_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\navigation_drawer_content.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\20baea440dcba434eacb27f71c7d4270b68c62c7\\output\\res\\layout\\navigation_drawer_content.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_navigation_menu.xml",
@@ -464,36 +440,52 @@
         "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_spinner_editor.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\on_demand_manual.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\5e48b1e9ffee5e6a4aadd7284f3472d36bf04360\\output\\res\\layout\\on_demand_manual.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\simple_group_header_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6f03efc4488b00d7e436e56ce18d21839140a241\\output\\res\\layout\\simple_group_header_item.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_layout_tab_icon.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\error_activity.xml",
+        "source": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\src\\debug\\res\\layout\\error_activity.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\activity_view_feedback.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\1f960a9d616ee4196d27810819bf2bd5fd74df69\\output\\res\\layout\\activity_view_feedback.xml"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\suggestion_item_layout.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\df29fb15ccdf7b18da520ed9109de5e64511a819\\output\\res\\layout\\suggestion_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\radlegendcontrol.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\687007663d4dd55e382caf8c935aa8e5859dc7c6\\output\\res\\layout\\radlegendcontrol.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_spinner_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\navigation_item_view.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\20baea440dcba434eacb27f71c7d4270b68c62c7\\output\\res\\layout\\navigation_item_view.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_editor_layout_3.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_editor_layout_3.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\default_tooltip_scatter_bubble_content.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2823ae7a1905a804136e5fd94ff6e5b085ea9750\\output\\res\\layout\\default_tooltip_scatter_bubble_content.xml"
     },
     {
-        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\popup_event.xml",
-        "source": "C:\\Users\\Owner\\.android\\build-cache\\de8451595d08bd42a9c860e3141acb18de790c44\\output\\res\\layout\\popup_event.xml"
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\exception_tab.xml",
+        "source": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\src\\debug\\res\\layout\\exception_tab.xml"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\notification_template_part_time.xml",
@@ -510,5 +502,525 @@
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_editor_validation_layout_1.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_editor_validation_layout_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\number_picker.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\number_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_editor_layout_1.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_editor_layout_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\tooltip_container.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\687007663d4dd55e382caf8c935aa8e5859dc7c6\\output\\res\\layout\\tooltip_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_segmented_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_segmented_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_radio_group_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_radio_group_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\main_menu_content.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\1f960a9d616ee4196d27810819bf2bd5fd74df69\\output\\res\\layout\\main_menu_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_spinner_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\error_activity.xml",
+        "source": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\src\\debug\\res\\layout\\error_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_default_group_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_default_group_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_text_viewer.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_text_viewer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_expandable_group_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_expandable_group_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\legend_item_view.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\687007663d4dd55e382caf8c935aa8e5859dc7c6\\output\\res\\layout\\legend_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\activity_view_feedback_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\0b6e22533a49c4613d338cc5c66a2ff90a7f09aa\\output\\res\\layout\\activity_view_feedback_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\calendar_day_event_view.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\8207fb69f7a58e95e6317c71415d712cb02a4c2d\\output\\res\\layout\\calendar_day_event_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_checkbox_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_checkbox_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\simple_empty_content.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6f03efc4488b00d7e436e56ce18d21839140a241\\output\\res\\layout\\simple_empty_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\feedback_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\1f960a9d616ee4196d27810819bf2bd5fd74df69\\output\\res\\layout\\feedback_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\calendar_day_event_view.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\de8451595d08bd42a9c860e3141acb18de790c44\\output\\res\\layout\\calendar_day_event_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\inline_event.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\de8451595d08bd42a9c860e3141acb18de790c44\\output\\res\\layout\\inline_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_autocomplete_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_autocomplete_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_list_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_list_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\on_demand_automatic.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6f03efc4488b00d7e436e56ce18d21839140a241\\output\\res\\layout\\on_demand_automatic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\activity_view_feedback.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\0b6e22533a49c4613d338cc5c66a2ff90a7f09aa\\output\\res\\layout\\activity_view_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\ohlc_trackball_item_content.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\687007663d4dd55e382caf8c935aa8e5859dc7c6\\output\\res\\layout\\ohlc_trackball_item_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\simple_list_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6f03efc4488b00d7e436e56ce18d21839140a241\\output\\res\\layout\\simple_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\activity_edit_details.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\0b6e22533a49c4613d338cc5c66a2ff90a7f09aa\\output\\res\\layout\\activity_edit_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\default_tooltip_ohlc_content.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\687007663d4dd55e382caf8c935aa8e5859dc7c6\\output\\res\\layout\\default_tooltip_ohlc_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\range_trackball_item_content.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\687007663d4dd55e382caf8c935aa8e5859dc7c6\\output\\res\\layout\\range_trackball_item_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\activity_view_feedback_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\1f960a9d616ee4196d27810819bf2bd5fd74df69\\output\\res\\layout\\activity_view_feedback_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_expandable_group_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_expandable_group_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\default_tooltip_scatter_content.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2823ae7a1905a804136e5fd94ff6e5b085ea9750\\output\\res\\layout\\default_tooltip_scatter_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\number_picker.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\number_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\default_tooltip_scatter_content.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\687007663d4dd55e382caf8c935aa8e5859dc7c6\\output\\res\\layout\\default_tooltip_scatter_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_editor_header_layout_2.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_editor_header_layout_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_linear_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_linear_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_switch_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_switch_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_linear_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_linear_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_switch_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_switch_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_date_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_date_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\feedback_indicator.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\0b6e22533a49c4613d338cc5c66a2ff90a7f09aa\\output\\res\\layout\\feedback_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_autocomplete_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_autocomplete_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_editor_header_layout_3.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_editor_header_layout_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\default_tooltip_scatter_bubble_content.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\687007663d4dd55e382caf8c935aa8e5859dc7c6\\output\\res\\layout\\default_tooltip_scatter_bubble_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\suggestion_item_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\478f30dcffecbd0ac17f8bf7cd239f04ec9654a4\\output\\res\\layout\\suggestion_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\popup_edit_details.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\0b6e22533a49c4613d338cc5c66a2ff90a7f09aa\\output\\res\\layout\\popup_edit_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_label_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_label_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\fragment_feedback_items.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\1f960a9d616ee4196d27810819bf2bd5fd74df69\\output\\res\\layout\\fragment_feedback_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\fragment_feedback_items.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\0b6e22533a49c4613d338cc5c66a2ff90a7f09aa\\output\\res\\layout\\fragment_feedback_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\legend_item_view.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2823ae7a1905a804136e5fd94ff6e5b085ea9750\\output\\res\\layout\\legend_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_editor_layout_2.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_editor_layout_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_editor_header_layout_1.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_editor_header_layout_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_seek_bar_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_seek_bar_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_number_picker.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_number_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_number_picker.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_number_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\on_demand_automatic.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\5e48b1e9ffee5e6a4aadd7284f3472d36bf04360\\output\\res\\layout\\on_demand_automatic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\radchartbase.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2823ae7a1905a804136e5fd94ff6e5b085ea9750\\output\\res\\layout\\radchartbase.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_time_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_time_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_editor_header_layout_2.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_editor_header_layout_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\list_progress_indicator.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\1f960a9d616ee4196d27810819bf2bd5fd74df69\\output\\res\\layout\\list_progress_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\default_trackball_item_content.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\687007663d4dd55e382caf8c935aa8e5859dc7c6\\output\\res\\layout\\default_trackball_item_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_group_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_group_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\activity_edit_details.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\1f960a9d616ee4196d27810819bf2bd5fd74df69\\output\\res\\layout\\activity_edit_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\list_progress_indicator.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\0b6e22533a49c4613d338cc5c66a2ff90a7f09aa\\output\\res\\layout\\list_progress_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_date_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_date_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_toggle_button_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_toggle_button_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\trackball_container.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2823ae7a1905a804136e5fd94ff6e5b085ea9750\\output\\res\\layout\\trackball_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\on_demand_manual.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\5e48b1e9ffee5e6a4aadd7284f3472d36bf04360\\output\\res\\layout\\on_demand_manual.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\on_demand_manual.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\6f03efc4488b00d7e436e56ce18d21839140a241\\output\\res\\layout\\on_demand_manual.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\logcat_tab.xml",
+        "source": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\src\\debug\\res\\layout\\logcat_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\9984e58c41d46709f8ed37b9466f30727efa871b\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_editor_layout_3.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_editor_layout_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\calendar_all_day_event_view.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\8207fb69f7a58e95e6317c71415d712cb02a4c2d\\output\\res\\layout\\calendar_all_day_event_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\radlegendcontrol.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\687007663d4dd55e382caf8c935aa8e5859dc7c6\\output\\res\\layout\\radlegendcontrol.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_segmented_editor.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\d6b1a09570ef70c14decfca203ee7711da6d8ee3\\output\\res\\layout\\data_form_segmented_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\popup_event.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\de8451595d08bd42a9c860e3141acb18de790c44\\output\\res\\layout\\popup_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\data_form_editor_layout_3.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2da6e42c12e65e358c8688a869bfb209c00dcfed\\output\\res\\layout\\data_form_editor_layout_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1\\debug\\layout\\radlegendcontrol.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\2823ae7a1905a804136e5fd94ff6e5b085ea9750\\output\\res\\layout\\radlegendcontrol.xml"
     }
 ]

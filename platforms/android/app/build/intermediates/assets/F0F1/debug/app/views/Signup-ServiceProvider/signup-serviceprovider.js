@@ -13,6 +13,10 @@ var observableModule = require("data/observable");
 
 exports.service_login_loaded = function(args) {
 	console.log("pageLoaded");
+	var service = ["Florist",
+		"spa",
+		"retail"
+		];
 	var counties = ["Antrim",
 		"Armagh",
 		"Carlow",
@@ -45,12 +49,8 @@ exports.service_login_loaded = function(args) {
 		"Westmeath",
 		"Wexford",
 		"Wicklow"];
-	console.log(counties);
-	console.log(args);
 	var page = args.object;
-	console.log(page);
 	var items = new observableArray.ObservableArray();
-	console.log(items);
 	viewModel = new observable.Observable();
 	for (var loop = 0; loop < 20; loop++) {
         items.push("Item " + loop.toString());
@@ -59,6 +59,10 @@ exports.service_login_loaded = function(args) {
     viewModel.set("items", counties);
     console.log(viewModel.get("items"));
     viewModel.set("selectedIndex", 0);
+
+    viewModel.set("services", service);
+    console.log(viewModel.get("services"));
+    viewModel.set("selectedIndex2", 0);
  
     page.bindingContext = viewModel;
 };

@@ -1,15 +1,11 @@
 [
     {
-        "name": "nativescript-drop-down",
-        "directory": "..\\..\\node_modules\\nativescript-drop-down"
+        "name": "kinvey-nativescript-sdk",
+        "directory": "..\\..\\node_modules\\kinvey-nativescript-sdk"
     },
     {
-        "name": "nativescript-pro-ui",
-        "directory": "..\\..\\node_modules\\nativescript-pro-ui"
-    },
-    {
-        "name": "nativescript-social-share",
-        "directory": "..\\..\\node_modules\\nativescript-social-share"
+        "name": "nativescript-imagepicker",
+        "directory": "..\\..\\node_modules\\nativescript-imagepicker"
     },
     {
         "name": "nativescript-theme-core",
@@ -18,6 +14,22 @@
     {
         "name": "tns-core-modules",
         "directory": "..\\..\\node_modules\\tns-core-modules"
+    },
+    {
+        "name": "nativescript-sqlite",
+        "directory": "..\\..\\node_modules\\nativescript-sqlite"
+    },
+    {
+        "name": "nativescript-permissions",
+        "directory": "..\\..\\node_modules\\nativescript-permissions"
+    },
+    {
+        "name": "nativescript-ui-core",
+        "directory": "..\\..\\node_modules\\nativescript-ui-core"
+    },
+    {
+        "name": "nativescript-ui-listview",
+        "directory": "..\\..\\node_modules\\nativescript-ui-listview"
     },
     {
         "name": "tns-core-modules-widgets",

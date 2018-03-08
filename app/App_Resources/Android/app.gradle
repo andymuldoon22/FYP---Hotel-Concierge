@@ -8,7 +8,7 @@
 android {  
   defaultConfig {  
     generatedDensities = []
-    applicationId = "org.nativescript.HotelApp" 
+    applicationId = "org.nativescript.HelloWorld" 
     
     //override supported platforms
     // ndk {

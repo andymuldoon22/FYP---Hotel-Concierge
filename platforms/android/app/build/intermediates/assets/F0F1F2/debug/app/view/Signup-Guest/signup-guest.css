@@ -1,0 +1,14 @@
+/* From platform.android.css */
+.link {
+    background-color: transparent;
+}
+
+/* From platform.ios.css */
+.link {
+    border-width: 0;
+}
+
+/*ActionBar {
+    background-color:  #3C5AFD;
+    color: white;
+}*/
