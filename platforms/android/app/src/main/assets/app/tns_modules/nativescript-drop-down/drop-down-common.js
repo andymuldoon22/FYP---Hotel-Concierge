@@ -5,6 +5,7 @@ function __export(m) {
 Object.defineProperty(exports, "__esModule", { value: true });
 var observable_array_1 = require("data/observable-array");
 var view_1 = require("ui/core/view");
+var weak_event_listener_1 = require("ui/core/weak-event-listener");
 var types = require("utils/types");
 __export(require("ui/core/view"));
 var DropDownBase = (function (_super) {
@@ -98,6 +99,12 @@ exports.itemsProperty = new view_1.Property({
         var getDisplay = newValue && newValue.getDisplay;
         target.isItemsSourceIn = typeof getItem === "function";
         target.isValueListIn = typeof getDisplay === "function";
+        if (oldValue instanceof observable_array_1.ObservableArray) {
+            weak_event_listener_1.removeWeakEventListener(oldValue, observable_array_1.ObservableArray.changeEvent, target.refresh, target);
+        }
+        if (newValue instanceof observable_array_1.ObservableArray) {
+            weak_event_listener_1.addWeakEventListener(newValue, observable_array_1.ObservableArray.changeEvent, target.refresh, target);
+        }
     }
 });
 exports.itemsProperty.register(DropDownBase);

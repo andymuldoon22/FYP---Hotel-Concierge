@@ -70,11 +70,15 @@ var DropDown = (function (_super) {
     DropDown.prototype.close = function () {
         this.nativeView.onDetachedFromWindowX();
     };
+    DropDown.prototype.refresh = function () {
+        this._updateSelectedIndexOnItemsPropertyChanged(this.items);
+        this.android.getAdapter().notifyDataSetChanged();
+        drop_down_common_1.selectedIndexProperty.coerce(this);
+    };
     DropDown.prototype[drop_down_common_1.selectedIndexProperty.getDefault] = function () {
         return null;
     };
     DropDown.prototype[drop_down_common_1.selectedIndexProperty.setNative] = function (value) {
-        this._clearCache(1);
         var actualIndex = (types.isNullOrUndefined(value) ? 0 : value + 1);
         this.nativeView.setSelection(actualIndex);
     };
@@ -131,6 +135,15 @@ var DropDown = (function (_super) {
         }
         return this._realizedItems[realizedViewType].get(convertView);
     };
+    DropDown.prototype._clearCache = function (realizedViewType) {
+        var realizedItems = this._realizedItems[realizedViewType];
+        realizedItems.forEach(function (view) {
+            if (view.parent) {
+                view.parent._removeView(view);
+            }
+        });
+        realizedItems.clear();
+    };
     DropDown.prototype._propagateStylePropertyToRealizedViews = function (property, value, isIncludeHintIn) {
         if (isIncludeHintIn === void 0) { isIncludeHintIn = true; }
         var realizedItems = this._realizedItems;
@@ -159,15 +172,6 @@ var DropDown = (function (_super) {
         if (newItemsCount === 0 || this.selectedIndex >= newItemsCount) {
             this.selectedIndex = null;
         }
-    };
-    DropDown.prototype._clearCache = function (realizedViewType) {
-        var realizedItems = this._realizedItems[realizedViewType];
-        realizedItems.forEach(function (view) {
-            if (view.parent) {
-                view.parent._removeView(view);
-            }
-        });
-        realizedItems.clear();
     };
     return DropDown;
 }(drop_down_common_1.DropDownBase));
@@ -319,6 +323,7 @@ function initializeDropDownItemSelectedListener() {
                     oldIndex: oldIndex,
                     newIndex: newIndex
                 });
+                owner._clearCache(1);
             }
         };
         DropDownItemSelectedListenerImpl.prototype.onNothingSelected = function () {

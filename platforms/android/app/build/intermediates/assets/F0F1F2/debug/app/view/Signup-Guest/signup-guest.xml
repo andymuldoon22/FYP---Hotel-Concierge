@@ -8,6 +8,6 @@
 		<TextField id="email" text="{{ email }}" hint="Email Address" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
 		<TextField id="pw" secure="true" text="{{ password }}" hint="Password" />
 
-		<Button text="Sign Up" class="link" tap="signup"/>
+		<Button text="Sign Up" class="link" tap="signup" class="btn btn-outline"/>
 	</StackLayout>
 </Page>

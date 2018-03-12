@@ -1,5 +1,6 @@
 {
     "kinvey-nativescript-sdk": true,
+    "nativescript-drop-down": true,
     "nativescript-imagepicker": true,
     "nativescript-theme-core": true,
     "tns-core-modules": true,

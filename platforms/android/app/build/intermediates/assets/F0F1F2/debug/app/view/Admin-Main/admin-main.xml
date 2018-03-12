@@ -1,13 +1,15 @@
-<Page loaded="admin_main" xmlns="http://schemas.nativescript.org/tns.xsd">
+<Page loaded="admin_main" xmlns="http://schemas.nativescript.org/tns.xsd" >
 	<ActionBar title="Admin">
-		<NavigationButton></NavigationButton>
+		<NavigationButton icon="res://ic_menu"/>
 	</ActionBar>
 	<ScrollView sdkExampleTitle sdkToggleNavButton>
 		<StackLayout orientation="vertical">
 			<TextField id="servicename" text="{{ servicename }}" hint="service name" keyboardType="url" autocorrect="false" autocapitalizationType="none" />
-            <TextField id="photo" secure="true" text="{{ password }}" hint="Password" />
-
-            <Button text="Log In" tap="login"/>
+            <!-- <TextField id="photo" secure="true" text="{{ photo }}" hint="photo" /> -->
+			<Image *ngif = "myImage" class="imageCss" src="{{myImage}}" stretch="aspectFill">
+			</Image>
+			<Button class="btn btn-outline" text="Upload Image" tap="GetPicture"/>
+            <Button text="Log In" tap="login" class="btn btn-outline"/>
 		</StackLayout>
 	</ScrollView>
 </Page>

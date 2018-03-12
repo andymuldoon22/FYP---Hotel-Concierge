@@ -1,8 +1,8 @@
 {
   "_from": "nativescript-drop-down",
-  "_id": "nativescript-drop-down@3.2.1",
+  "_id": "nativescript-drop-down@3.2.4",
   "_inBundle": false,
-  "_integrity": "sha1-b4mKmZNPzexoQa2EPYq2UjCG0vw=",
+  "_integrity": "sha1-OCvINoAFUcXeEr8FtGlsIgYcFjo=",
   "_location": "/nativescript-drop-down",
   "_phantomChildren": {},
   "_requested": {
@@ -19,10 +19,10 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/nativescript-drop-down/-/nativescript-drop-down-3.2.1.tgz",
-  "_shasum": "6f898a99934fcdec6841ad843d8ab6523086d2fc",
+  "_resolved": "https://registry.npmjs.org/nativescript-drop-down/-/nativescript-drop-down-3.2.4.tgz",
+  "_shasum": "382bc836800551c5de12bf05b4696c22061c163a",
   "_spec": "nativescript-drop-down",
-  "_where": "C:\\Users\\Owner\\Desktop\\FYP\\HotelApp",
+  "_where": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld",
   "author": {
     "name": "Peter Staev",
     "email": "peter@tangrasoft.com"
@@ -69,5 +69,5 @@
     "url": "git+https://github.com/PeterStaev/NativeScript-Drop-Down.git"
   },
   "typings": "drop-down.d.ts",
-  "version": "3.2.1"
+  "version": "3.2.4"
 }

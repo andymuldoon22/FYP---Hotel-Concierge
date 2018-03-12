@@ -96,7 +96,7 @@ exports.login = function(args){
 exports.ToServiceProvider = function(){
 	console.log("ToServiceProvider whoop whoop");
 	var topmost = frameModule.topmost();
-	topmost.navigate("view/login-Guest - Copy/login-Guest");
+	topmost.navigate("view/Signup-ServiceProvider/signup-serviceprovider");
 };
 exports.signup = function(){
     //alert("Signing In");
