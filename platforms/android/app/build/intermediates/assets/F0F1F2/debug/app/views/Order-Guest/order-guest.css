@@ -1,0 +1,44 @@
+/* From platform.android.css */
+.link {
+    background-color: transparent;
+}
+
+/* From platform.ios.css */
+.link {
+    border-width: 0;
+}
+
+body{
+	margin: 0;
+	overflow: hidden; 
+}
+
+.scrollBar{
+	width: 5px;
+	height: 100%;
+	background: #49505a;
+	position: fixed;
+	top: 0;
+	right: 9px;
+	z-index: 1;
+}
+
+.slider{
+	width: 20px;
+	background: #5EAEE3;
+	border-radius: 10px;
+	left: -7px;
+}
+
+.ng-valid[required] {
+    border-left-color: #42A948; 
+    border-left-width: 3;
+}
+.ng-invalid {
+    border-left-color: #a94442; 
+    border-left-width: 3;
+}
+.validation {
+    background-color: #a94442;
+    color: #ffffff;
+}

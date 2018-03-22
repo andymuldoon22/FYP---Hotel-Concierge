@@ -116,5 +116,5 @@ exports.dropDownOpened = function(){
 exports.submit = function(){
 	alert("Your order was sent, you will be notified when a company has accepted your order");
 	var topmost = frameModule.topmost();
-	topmost.navigate("views/Main-Guest - Copy/main-guest");
+	topmost.navigate("view/Main-Guest-Service/main-guest-service");
 };
