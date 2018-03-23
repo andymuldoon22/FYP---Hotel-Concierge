@@ -1,15 +1,17 @@
-<Page loaded="guest_main" xmlns="http://schemas.nativescript.org/tns.xsd">
-	<ActionBar title="Services">
-		<NavigationButton></NavigationButton>
-	</ActionBar>
-	<ScrollView sdkExampleTitle sdkToggleNavButton>
-		<StackLayout orientation="vertical">
-			<Label text="Florists" row="0" class="h1 text-center"></Label>
-			<Image src="~/images/florists.jpg" row="1" tap="image" id="image" stretch="none"  width="100%" height="100%" horizontalAlignment="center" verticalAlignment="center"></Image>
-			<Label text="Clothes" row="2" class="h1 text-center"></Label>			
-			<Image src="~/images/clothes.jpg" row="3" text="Florists" stretch="none"  width="100%" height="100%" horizontalAlignment="center" verticalAlignment="center"></Image>
-			<Label text="SPA" row="4" class="h1 text-center"></Label>
-			<Image src="~/images/spa.jpg" row="5" text="Florists" stretch="none"  width="100%" height="100%"  horizontalAlignment="center" verticalAlignment="center"></Image>
-		</StackLayout>
-	</ScrollView>
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" xmlns:lv="nativescript-ui-listview" loaded="pageLoaded">
+
+    <ActionBar title="RadListView Demo" class="action-bar" />
+
+    <lv:RadListView id="listview" class="list-group"> 
+        <lv:RadListView.listViewLayout>
+            <lv:ListViewLinearLayout scrollDirection="Vertical"/>
+        </lv:RadListView.listViewLayout>
+        <lv:RadListView.itemTemplate>
+            <StackLayout class="list-group-item">
+                <Label text="{{ itemName }}" class="list-group-item-heading" />
+                <Label text="{{ itemDesc }}" textWrap="true" class="list-group-item-text" />
+            </StackLayout>
+        </lv:RadListView.itemTemplate>
+    </lv:RadListView>
+
 </Page>

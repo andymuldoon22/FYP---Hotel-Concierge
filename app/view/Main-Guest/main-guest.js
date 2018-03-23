@@ -11,26 +11,25 @@ var viewModel = observable.Observable;
 exports.guest_main = function(args) {
 	page= args.object;
 	viewModel = new observable.Observable();
-
+	console.log(Kinvey.User.getActiveUser().data._id);
+	var activeUser = Kinvey.User.getActiveUser();
+	console.log(activeUser);
 	var subscription = dataStore.find()
 	.subscribe(function(entities) {
 		// ...
 		var services= [];
 		var age =[];
-		console.log(entities);
 		var length = entities.length;
 		if (length !== 0){
 			for (i=0;i<length;i++){
 				var thing = {service: entities[i].Service};
 				this.age =  entities[i].Service;
 				services.push(entities[i].Service);
-				console.log("yes   "+this.age);
 			}
 		}
 		
-
 		viewModel.set("myItems", entities);
-		console.log(viewModel.get("myItems"));
+		
 		page.bindingContext = viewModel;
 	}, function(error) {
 		console.log(error);
@@ -42,14 +41,14 @@ exports.guest_main = function(args) {
 };
 
 exports.image = function(args){
-	console.log(args.object);
-	var list = page.getViewById("service");
-	var INDEX = list.selectedIndex;
-	console.log(list[INDEX].value);
+
+	var index = args.index;
+	var vm = viewModel.get("myItems", args.index);
+	var service = vm[index].Service;
 	var navigationOptions={
         moduleName:"view/Main-Guest-Service/main-guest-service",
 		context:{
-			param1: "value1"
+			param1: service
 	    }
     }
 	var topmost = frameModule.topmost();

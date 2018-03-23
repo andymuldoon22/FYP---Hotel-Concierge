@@ -4,16 +4,18 @@
 	</ActionBar>
 	<ScrollView sdkExampleTitle sdkToggleNavButton>
     <StackLayout class="p-20">
-	    <Label text="Company Name"></Label>
+	    <!-- <Label text="Company Name"></Label>
 	    <TextField id="companyName" hint="Enter Company Name" ></TextField>
+		<Label text="Password"></Label>
+	    <TextField id="password" hint="Please enter a password" secure="true" text="{{ password }}" ></TextField>
 	    <Label text="Email Address"></Label>
-		<TextField id="companyEmail" hint="Enter Email Address" ></TextField>
+		<TextField id="companyEmail" hint="Enter Email Address" ></TextField> -->
 	    <Label text="Work Phone"></Label>
-		<TextField id="companyPhoneNo" hint="Enter Work Phone No." ></TextField>	    
+		<TextField id="companyPhoneNo" keyboardType="number" hint="Enter Work Phone No." ></TextField>	    
 		<Label text="Address Line 1"></Label>
 		<TextField id="addressline1" hint="Enter Address Line 1" ></TextField>	    
 		<Label text="Address Line 2"></Label>
-		<TextField id="addressLine2" hint="Enter Address Line 2" ></TextField>
+		<TextField id="addressline2" hint="Enter Address Line 2" ></TextField>
 		<Label text="City"></Label>
 		<TextField id="city" hint="Enter City" ></TextField>
 		<Label text="County"></Label>
@@ -26,7 +28,7 @@
 		<TimePicker loaded="onPickerLoadedClosing" timeChange="onTimeChangedClosing" verticalAlignment="center" class="m-15"></TimePicker>	
 		<Label text="Description of Company"></Label>
 		<TextField id="Description" hint="Any other relavent information" ></TextField>
-		<Button text="Submit" type="Submit" tap="submit" class="btn btn-outline"/>	    
+		<Button text="Submit" type="Submit" tap="submit"/>	    
 	</StackLayout>
 	</ScrollView>
 </Page>

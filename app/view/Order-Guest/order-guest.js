@@ -5,11 +5,15 @@ var pages = require("ui/page");
 var page;
 // var pageData = new observable();
 var viewModel = observable.Observable;
-
 var observableModule = require("data/observable");
+var Kinvey = require('kinvey-nativescript-sdk').Kinvey;
+var dataStore = Kinvey.DataStore.collection('Jobs');
+var timePickerOpen, datePicker;
+// var activeUser = Kinvey.User.getActiveUser();
 
 exports.pageLoaded = function(args) {
     
+	    
     var quality = ["Highest Rated",
 		"Quickest",
 		"Cheapest",
@@ -19,20 +23,14 @@ exports.pageLoaded = function(args) {
 	var page = args.object;
 	var items = new observableArray.ObservableArray();
 	viewModel = new observable.Observable();
- 
+	var activeUser = Kinvey.User.getActiveUser();
 	viewModel.set("quality", quality);
-	console.log(viewModel.get("quality"));
-    console.log(viewModel.get("quality"));
     viewModel.set("selectedIndex2", 0);
 	page.bindingContext = viewModel;
 };
-exports.onNavBtnTap = function(args){
-	console.log("backwards");
-	var topmost = frameModule.topmost();
-	topmost.navigate("views/Main-Guest/main-guest");
-};
+
 exports.onPickerLoaded2 = function(args) {
-    var datePicker = args.object;
+	datePicker = args.object;
 
     datePicker.year = 2018;
     datePicker.month = 2;
@@ -42,6 +40,7 @@ exports.onPickerLoaded2 = function(args) {
 };
 
 exports.onDateChanged = function(args) {
+	datePicker = args.value;
     console.log("Date changed");
     console.log("New value: " + args.value);
     console.log("Old value: " + args.oldValue);
@@ -66,15 +65,18 @@ exports.onYearChanged = function(args) {
 };
 
 exports.onPickerLoaded = function(args) {
-    var timePicker = args.object;
-
-    timePicker.hour = 9;
-    timePicker.minute = 25;
+    timePickerOpen = args.object;
+	
+    timePickerOpen.hour = 0;
+	timePickerOpen.minute = 0;
+	console.log(timePickerOpen.minute);   
 };
 
 exports.onTimeChanged = function(args) {
     console.log(args.value);
+	timePickerOpen = args.value;
 };
+
 
 
 exports.guest_main = function(args) {
@@ -114,7 +116,31 @@ exports.dropDownOpened = function(){
 };
 
 exports.submit = function(){
-	alert("Your order was sent, you will be notified when a company has accepted your order");
-	var topmost = frameModule.topmost();
-	topmost.navigate("view/Main-Guest-Service/main-guest-service");
+	var orderDate = datePicker.day + "/" + datePicker.month + "/" + datePicker.year;
+	console.log(orderDate);
+	var openinghour = timePickerOpen.hour.toString() +timePickerOpen.minute.toString();
+	console.log(openinghour);	
+	// console.log(activeUser);
+	console.log("User ID" + Kinvey.User.getActiveUser().data._id);
+	// alert("Your order was sent, you will be notified when a company has accepted your order");
+	var promise = dataStore.save({
+		Guest: Kinvey.User.getActiveUser().data._id,
+		ServiceProvider: '3',
+		Date: orderDate,
+		time: openinghour,
+		// rating: service,
+		status: "requested"
+	})
+	.then(function(entity) {
+		  // ...
+		//   console.log(entity);
+		  alert("Your request was sent, you will be notified when your request has been processed");
+	})
+	.catch(function(error) {
+		  // ...
+		  console.log(error);
+	});
+	
+	// var topmost = frameModule.topmost();
+	// topmost.navigate("view/Main-Guest-Service/main-guest-service");
 };

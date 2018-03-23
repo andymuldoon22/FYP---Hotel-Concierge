@@ -22,8 +22,8 @@ exports.service_login_loaded = function(args) {
 	});
 	services = [
 		"Florist",
-		"spa",
-		"retail"
+		"SPA",
+		"Tours"
 	];
 	counties = [
 		"Antrim",
@@ -133,9 +133,10 @@ exports.submit = function(){
 	console.log(addressline1.text);
 	console.log(addressline2.text);
 	console.log(companyPhoneNo.text);
+	console.log("User ID" + Kinvey.User.getActiveUser().data._id);
 
 	var promise = dataStore.save({
-		ID: '1',
+		ID: Kinvey.User.getActiveUser().data._id,
 		rating: '3',
 		closingHours: closinghour,
 		openingHours: openinghour,
@@ -147,33 +148,16 @@ exports.submit = function(){
 		workphone: companyPhoneNo.text
 	})
 	.then(function(entity) {
-		  // ...
-		  console.log(entity);
+		// ...
+		console.log(entity);
+		alert("Your request was sent, you will be notified when your request has been processed");
+		var topmost = frameModule.topmost();
+		topmost.navigate("view/Main-ServiceProvider/main-serviceprovider");
 	})
 	.catch(function(error) {
 		  // ...
 		  console.log(error);
 	});
-	alert("Your request was sent, you will be notified when your request has been processed");
+	
 
-
-	// var promise = Kinvey.User.logout();
-	// var promise = Kinvey.User.signup({
-	// 	username: companyName.text,
-	// 	email: companyEmail.text,
-	// 	password: password.text
-	//   })
-	// 	.then(function(user) {
-	// 	  // ...
-	// 		console.log(user);
-	// 		var topmost = frameModule.topmost();
-	// 		topmost.navigate("view/Main-Guest/main-guest");
-	// 		// alert("Signing In");
-	// 	})
-	// 	.catch(function(error) {
-	// 	  // ...
-	// 	  console.log(error);
-	// 	});
-		// var topmost = frameModule.topmost();
-		// topmost.navigate("views/login-Guest - Copy/login-Guest");
 };

@@ -1,28 +1,29 @@
-// import observable = require("data/observable");
-// import observableArray = require("data/observable-array");
-// import pages = require("ui/page");
-
 var frameModule = require("ui/frame");
 var observable = require("data/observable");
 var observableArray = require("data/observable-array");
 var pages = require("ui/page");
 var Kinvey = require('kinvey-nativescript-sdk').Kinvey;
-// import { SelectedIndexChangedEventData } from "nativescript-drop-down";
+var dataStore = Kinvey.DataStore.collection('ServiceProvider');
 var viewModel = observable.Observable;
-var page, companyName, companyEmail, companyPhoneNo, addressline1, addressLine2, city, timePickerOpen, timePickerClosing, selectedCounty, selectedService, county, openingtime;
+var page, services, companyName, password, companyEmail, companyPhoneNo, addressline1, addressline2, city;
+var timePickerOpen, timePickerClosing, selectedCounty, selectedService, county, openingtime;
 
 exports.service_login_loaded = function(args) {
-	console.log("pageLoaded");
-	
 	page = args.object;
-	console.log(page);
-	companyName = page.getViewById("companyName");
-	console.log(companyName.text);
-
-	var service = [
+	var subscription = dataStore.find()
+	.subscribe(function(entities) {
+		// ...
+		console.log(entities);
+	}, function(error) {
+		console.log(error);
+		// ...
+	}, function() {
+		// ...
+	});
+	services = [
 		"Florist",
-		"spa",
-		"retail"
+		"SPA",
+		"Tours"
 	];
 	counties = [
 		"Antrim",
@@ -68,7 +69,7 @@ exports.service_login_loaded = function(args) {
     viewModel.set("countys", counties);
     viewModel.set("selectedCounty", 0);
 
-    viewModel.set("services", service);
+    viewModel.set("services", services);
     viewModel.set("selectedService", 0);
  
     page.bindingContext = viewModel;
@@ -112,24 +113,51 @@ exports.dropDownOpened = function(args){
 };
 
 exports.submit = function(){
-	// companyName = page.getViewById("companyName");
-	companyName = page.getViewById("companyName");
-	console.log(companyName.text);
-	companyEmail = page.getViewById("companyEmail"); 
+
 	companyPhoneNo = page.getViewById("companyPhoneNo");
 	addressline1 = page.getViewById("addressline1");
-	addressLine2 = page.getViewById("addressline2");
+	addressline2 = page.getViewById("addressline2");
 	city = page.getViewById("city");
-	console.log(viewModel.get("selectedCounty"));
 
 	selectedCounty = viewModel.get("selectedCounty");
 	selectedService = viewModel.get("selectedService");
-	console.log(counties[selectedCounty]);
-	console.log(counties[selectedService]);
-	console.log(timePickerOpen.hour + ":" +timePickerOpen.minute);
-	console.log(timePickerClosing.hour + ":" +timePickerClosing.minute);
+	var county = counties[selectedCounty];
+	var service = services[selectedService];
+	var openinghour = timePickerOpen.hour.toString() +timePickerOpen.minute.toString();
+	var closinghour = timePickerClosing.hour.toString() +timePickerClosing.minute.toString();
+	console.log(openinghour);
+	console.log(closinghour);
+	console.log(service);
+	console.log(county);
+	console.log(city.text);
+	console.log(addressline1.text);
+	console.log(addressline2.text);
+	console.log(companyPhoneNo.text);
+	console.log("User ID" + Kinvey.User.getActiveUser().data._id);
+
+	var promise = dataStore.save({
+		ID: Kinvey.User.getActiveUser().data._id,
+		rating: '3',
+		closingHours: closinghour,
+		openingHours: openinghour,
+		service: service,
+		county: county,
+		city: city.text,
+		addressLine1: addressline1.text,
+		addressLine2: addressline2.text,
+		workphone: companyPhoneNo.text
+	})
+	.then(function(entity) {
+		// ...
+		console.log(entity);
+		alert("Your request was sent, you will be notified when your request has been processed");
+		var topmost = frameModule.topmost();
+		topmost.navigate("view/Main-ServiceProvider/main-serviceprovider");
+	})
+	.catch(function(error) {
+		  // ...
+		  console.log(error);
+	});
 	
-	alert("Your request was sent, you will be notified when your request has been processed");
-	// var topmost = frameModule.topmost();
-	// topmost.navigate("views/login-Guest - Copy/login-Guest");
+
 };

@@ -6,22 +6,39 @@ var frameModule = require("ui/frame");
 var observable = require("data/observable");
 var observableArray = require("data/observable-array");
 var pages = require("ui/page");
+var Kinvey = require('kinvey-nativescript-sdk').Kinvey;
+var dataStore = Kinvey.DataStore.collection('services');
 // import { SelectedIndexChangedEventData } from "nativescript-drop-down";
 var viewModel = observable.Observable;
+var page, companyName, password, companyEmail, companyPhoneNo, addressline1, addressLine2, city, timePickerOpen, timePickerClosing, selectedCounty, selectedService, county, openingtime;
 
-var observableModule = require("data/observable");
-exports.onNavBtnTap = function(args){
-	console.log("backwards");
-	var topmost = frameModule.topmost();
-	topmost.navigate("views/login-Guest/login-guest");
-};
 exports.service_login_loaded = function(args) {
 	console.log("pageLoaded");
-	var service = ["Florist",
+	
+	page = args.object;
+	console.log(page);
+	companyName = page.getViewById("companyName");
+	console.log(companyName.text);
+	console.log("dataStore");
+	console.log(dataStore);
+	console.log(dataStore.object);
+	var subscription = dataStore.find()
+	.subscribe(function(entities) {
+		// ...
+		console.log(entities);
+	}, function(error) {
+		console.log(error);
+		// ...
+	}, function() {
+		// ...
+	});
+	var service = [
+		"Florist",
 		"spa",
 		"retail"
-		];
-	var counties = ["Antrim",
+	];
+	counties = [
+		"Antrim",
 		"Armagh",
 		"Carlow",
 		"Cavan",
@@ -52,46 +69,99 @@ exports.service_login_loaded = function(args) {
 		"Waterford",
 		"Westmeath",
 		"Wexford",
-		"Wicklow"];
-	var page = args.object;
-	var items = new observableArray.ObservableArray();
+		"Wicklow"
+	];
+	// var page = args.object;
+	var countys = new observableArray.ObservableArray();
 	viewModel = new observable.Observable();
 	for (var loop = 0; loop < 20; loop++) {
-        items.push("Item " + loop.toString());
+        countys.push("Item " + loop.toString());
     }
  
-    viewModel.set("items", counties);
-    console.log(viewModel.get("items"));
-    viewModel.set("selectedIndex", 0);
+    viewModel.set("countys", counties);
+    viewModel.set("selectedCounty", 0);
 
     viewModel.set("services", service);
-    console.log(viewModel.get("services"));
-    viewModel.set("selectedIndex2", 0);
+    viewModel.set("selectedService", 0);
  
     page.bindingContext = viewModel;
 };
 
-exports.onPickerLoaded = function(args) {
-    var timePicker = args.object;
-
-    timePicker.hour = 9;
-    timePicker.minute = 25;
+exports.onPickerLoadedOpening = function(args) {
+    timePickerOpen = args.object;
+	
+    timePickerOpen.hour = 0;
+	timePickerOpen.minute = 0;
+	console.log(timePickerOpen.minute);
 };
 
-exports.onTimeChanged = function(args) {
-    console.log(args.value);
+exports.onTimeChangedOpening = function(args) {
+	console.log(args.value);
+	timePickerOpen = args.value;
 };
 
-exports.dropDownSelectedIndexChanged = function(){
+exports.onPickerLoadedClosing = function(args) {
+    timePickerClosing = args.object;
+
+    timePickerClosing.hour = 0;
+    timePickerClosing.minute = 0;
+};
+
+exports.onTimeChangedClosing = function(args) {
+	console.log(args.value);
+	timePickerClosing = args.value;
+};
+
+exports.dropDownSelectedIndexChanged = function(args){
+	console.log(args.object.text);
+	console.log(args.newIndex);
 	console.log("dropDownSelectedIndexChanged");
 };
 
-exports.dropDownOpened = function(){
+exports.dropDownOpened = function(args){
+	console.log(args.object);
+	
 	console.log("dropDownOpened");
 };
 
 exports.submit = function(){
+	// companyName = page.getViewById("companyName");
+	companyName = page.getViewById("companyName");
+	password = page.getViewById("password");
+	console.log(companyName.text);
+	companyEmail = page.getViewById("companyEmail"); 
+	companyPhoneNo = page.getViewById("companyPhoneNo");
+	addressline1 = page.getViewById("addressline1");
+	addressLine2 = page.getViewById("addressline2");
+	city = page.getViewById("city");
+	console.log(viewModel.get("selectedCounty"));
+
+	selectedCounty = viewModel.get("selectedCounty");
+	selectedService = viewModel.get("selectedService");
+	console.log(counties[selectedCounty]);
+	console.log(counties[selectedService]);
+	console.log(timePickerOpen.hour + ":" +timePickerOpen.minute);
+	console.log(timePickerClosing.hour + ":" +timePickerClosing.minute);
+
+
+	var promise = Kinvey.User.logout();
+	var promise = Kinvey.User.signup({
+		username: companyName.text,
+		email: companyEmail.text,
+		password: password.text
+	  })
+		.then(function(user) {
+		  // ...
+			console.log(user);
+			var topmost = frameModule.topmost();
+			topmost.navigate("view/Main-Guest/main-guest");
+			// alert("Signing In");
+		})
+		.catch(function(error) {
+		  // ...
+		  console.log(error);
+		});
 	alert("Your request was sent, you will be notified when your request has been processed");
-	var topmost = frameModule.topmost();
-	topmost.navigate("views/login-Guest - Copy/login-Guest");
+	// var topmost = frameModule.topmost();
+	// topmost.navigate("views/login-Guest - Copy/login-Guest");
 };

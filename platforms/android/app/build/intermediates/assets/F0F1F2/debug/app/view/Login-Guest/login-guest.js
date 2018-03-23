@@ -10,7 +10,7 @@ var username;
 var pw;
 
 var user = new observableModule.fromObject({
-    username: 'Andy23',
+    username: 'User',
     pw: 'Password'
 });
 
@@ -54,26 +54,26 @@ exports.login = function(args){
     console.log(username.text);
     pw = page.getViewById("pw");
     console.log(pw.text);
-    if (username = "Andy23"){
-        console.log("Andy23");
-        var promise = Kinvey.User.login({
-            username: username.text,
-            password: pw.text
-          })
-            .then(function(user) {
-              // ...
-                var topmost = frameModule.topmost();
-                topmost.navigate("view/Admin-Main/admin-main");
+    // if (username = "Andy23"){
+    //     console.log("Andy23");
+    //     var promise = Kinvey.User.login({
+    //         username: username.text,
+    //         password: pw.text
+    //       })
+    //         .then(function(user) {
+    //           // ...
+    //             var topmost = frameModule.topmost();
+    //             topmost.navigate("view/Admin-Main/admin-main");
     
-            })
-            .catch(function(error) {
-              // ...
-              var topmost = frameModule.topmost();
-                topmost.navigate("view/Admin-Main/admin-main");
-            //   alert(error);
-            //   console.log("error");
-            });
-    }else{
+    //         })
+    //         .catch(function(error) {
+    //           // ...
+    //           var topmost = frameModule.topmost();
+    //             topmost.navigate("view/Admin-Main/admin-main");
+    //         //   alert(error);
+    //         //   console.log("error");
+    //         });
+    // }else{
     var promise = Kinvey.User.login({
         username: username.text,
         password: pw.text
@@ -89,7 +89,7 @@ exports.login = function(args){
           alert(error);
           console.log(error);
         });
-    }
+    // }
 
 };
 
@@ -99,9 +99,7 @@ exports.ToServiceProvider = function(){
 	topmost.navigate("view/Signup-ServiceProvider/signup-serviceprovider");
 };
 exports.signup = function(){
-    //alert("Signing In");
+    console.log("Signing In");
     var topmost = frameModule.topmost();
 	topmost.navigate("view/Signup-Guest/signup-guest");
-    
-	
-}
+};

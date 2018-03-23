@@ -1,4 +1,4 @@
-<Page loaded="loaded">
+<Page loaded="loaded" xmlns:dd="nativescript-drop-down">
 	<ActionBar title="Customer SignUp">
 	  <NavigationButton></NavigationButton>
 	</ActionBar>
@@ -7,7 +7,7 @@
 		<TextField id="name" text="{{ name }}" hint="Name" autocorrect="false" autocapitalizationType="none" />
 		<TextField id="email" text="{{ email }}" hint="Email Address" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
 		<TextField id="pw" secure="true" text="{{ password }}" hint="Password" />
-
-		<Button text="Sign Up" class="link" tap="signup" class="btn btn-outline"/>
+		<dd:DropDown items="{{ role }}" selectedIndex="{{ selectedRole }}" opened="dropDownOpened" selectedIndexChanged="dropDownSelectedIndexChanged" />
+		<Button text="Sign Up" class="link" tap="signup" />
 	</StackLayout>
 </Page>

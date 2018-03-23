@@ -1,13 +1,18 @@
 <Page loaded="service_login_loaded" xmlns:df="nativescript-pro-ui/dataform" xmlns="http://schemas.nativescript.org/tns.xsd" xmlns:dd="nativescript-drop-down" >
-    <ActionBar title="Request to join the app">
+    <ActionBar title="Upload your Product/Service">
 			<NavigationButton icon="res://ic_menu" tap="showSideDrawer" />
 	</ActionBar>
 	<ScrollView sdkExampleTitle sdkToggleNavButton>
     <StackLayout class="p-20">
+		<Label text="Flower Name"></Label>
+	    <TextField id="flowerName" hint="Enter Flower Name" ></TextField>
+		<Label text="Price"></Label>
+	    <TextField id="price" hint="Please enter the rice" ></TextField>
 	    <Label text="Please upload an image"></Label>
 	    <Image id = "myImage" class="imageCss" >
 			</Image>
-			<Button text="Upload Image" tap="GetPicture"/>	    
+		<Button text="Upload Image" tap="GetPicture"/>	  
+		<Button text="Submit" type="Submit" tap="submit"/>  
 	</StackLayout>
 	</ScrollView>
 </Page>

@@ -1,5 +1,5 @@
 <Page loaded="loaded">
-	<ActionBar title="Guests LogIn" icon="res://ic_menu">
+	<ActionBar title="Guests LogIn">
   <android>
     <NavigationButton icon="res://ic_menu" tap="showSideDrawer" />
   </android>
@@ -10,9 +10,10 @@
             <TextField id="username" text="{{ username }}" hint="username" keyboardType="url" autocorrect="false" autocapitalizationType="none" />
             <TextField id="pw" secure="true" text="{{ password }}" hint="Password" />
 
-            <Button text="Log In" tap="login" class="btn btn-outline"/>
-            <Button text="Sign Up" tap="signup" class="btn btn-outline"/>
-            <Button text="Switch to Service Provider" tap="ToServiceProvider" class="btn btn-outline"/>
+            <Button text="Log In" tap="login" />
+            <Button text="Sign Up" tap="signup" />
+            <!-- <Button text="Switch to Service Provider" tap="ToServiceProvider"/> -->
+            
         </StackLayout>
 	</ScrollView>
 </Page>

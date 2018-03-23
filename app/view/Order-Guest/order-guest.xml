@@ -1,6 +1,5 @@
 <Page xmlns:df="nativescript-pro-ui/dataform" xmlns="http://schemas.nativescript.org/tns.xsd" loaded="pageLoaded" xmlns:dd="nativescript-drop-down">
     <ActionBar title="Order">
-		<NavigationButton text="Go Back"  tap="onNavBtnTap"  android.systemIcon="ic_menu_back"></NavigationButton>
 	</ActionBar>
 	<ScrollView sdkExampleTitle sdkToggleNavButton>
 	    <StackLayout class="p-20">

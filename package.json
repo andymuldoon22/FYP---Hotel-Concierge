@@ -10,11 +10,12 @@
 		}
 	},
 	"dependencies": {
-		"kinvey-nativescript-sdk": "^3.10.0",
+		"kinvey-nativescript-sdk": "^3.10.1",
 		"nativescript-drop-down": "^3.2.4",
 		"nativescript-imagepicker": "^5.0.0",
-		"nativescript-theme-core": "~1.0.4",
-		"tns-core-modules": "~3.4.0"
+		"nativescript-theme-core": "^1.0.4",
+		"nativescript-ui-listview": "^3.5.1",
+		"tns-core-modules": "^3.4.1"
 	},
 	"devDependencies": {
 		"babel-traverse": "6.4.5",

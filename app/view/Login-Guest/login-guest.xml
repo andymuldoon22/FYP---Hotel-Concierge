@@ -12,7 +12,7 @@
 
             <Button text="Log In" tap="login" />
             <Button text="Sign Up" tap="signup" />
-            <Button text="Switch to Service Provider" tap="ToServiceProvider"/>
+            <!-- <Button text="Switch to Service Provider" tap="ToServiceProvider"/> -->
             
         </StackLayout>
 	</ScrollView>

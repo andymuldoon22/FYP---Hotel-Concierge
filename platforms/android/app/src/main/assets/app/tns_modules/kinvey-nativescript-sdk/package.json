@@ -1,8 +1,8 @@
 {
   "_from": "kinvey-nativescript-sdk",
-  "_id": "kinvey-nativescript-sdk@3.10.0",
+  "_id": "kinvey-nativescript-sdk@3.10.1",
   "_inBundle": false,
-  "_integrity": "sha512-Z3IhCBhB/03srZpmMUbNrZkCVdcb01FkuUNXMbnh1nboFMFQjwPYq6R3w5Wc1sm0oVAWRyx1eSCbdbLaRTyvww==",
+  "_integrity": "sha512-hJi09NiCBjyOMFYOrBZTl6cIxFVH2f1PPXM7bwUQdzuWXR/S09J1uY2bPm2iZOiTSEihiw0OkvfI+EtPZzeSJA==",
   "_location": "/kinvey-nativescript-sdk",
   "_phantomChildren": {},
   "_requested": {
@@ -19,8 +19,8 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/kinvey-nativescript-sdk/-/kinvey-nativescript-sdk-3.10.0.tgz",
-  "_shasum": "ec74842277b31c1630e1481b1da4b3f959a68b7d",
+  "_resolved": "https://registry.npmjs.org/kinvey-nativescript-sdk/-/kinvey-nativescript-sdk-3.10.1.tgz",
+  "_shasum": "6be0c58c15a3735951f2fa37c859fa2cb8fa79b3",
   "_spec": "kinvey-nativescript-sdk",
   "_where": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld",
   "author": {
@@ -53,5 +53,5 @@
     }
   },
   "typings": "kinvey.d.ts",
-  "version": "3.10.0"
+  "version": "3.10.1"
 }

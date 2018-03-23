@@ -7,6 +7,8 @@ C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\nativescript-drop-down\angular\index.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\nativescript-imagepicker\imagepicker.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\nativescript-permissions\permissions.js
+C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\nativescript-pro-ui\scripts\eula-prompt.js
+C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\nativescript-social-share\social-share.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\nativescript-sqlite\sqlite.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\nativescript-ui-listview\ui-listview.common.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\nativescript-ui-listview\ui-listview.js
@@ -167,6 +169,13 @@ C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\view\Login-Guest\login-guest.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\view\Main-Guest\main-guest.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\view\Main-Guest-Service\main-guest-service.js
+C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\view\Main-ServiceProvider\main-serviceprovider.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\view\Order-Guest\order-guest.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\view\Signup-Guest\signup-guest.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\view\Signup-ServiceProvider\signup-serviceprovider.js
+C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\views\main-page.js
+C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\views\login-Guest\login-Guest.js
+C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\views\Main-Guest\main-guest.js
+C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\views\Order-Guest\order-guest.js
+C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\views\Signup-Guest\signup-guest.js
+C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\views\Signup-ServiceProvider\signup-serviceprovider.js

@@ -4,31 +4,51 @@ var observable = require("data/observable");
 var observableArray = require("data/observable-array");
 var Kinvey = require('kinvey-nativescript-sdk').Kinvey;
 var dataStore = Kinvey.DataStore.collection('ServiceProvider');
+// 0var dataStore2 = Kinvey.DataStore.collection('');
 var page;
-
 
 exports.guest_main = function(args) {
 	page = args.object;
 	var gotData=page.navigationContext;
-    console.log(gotData.param1);
-    console.log(gotData.param2)
-	console.log("page");
-	console.log(page);
+    var servicename = gotData.param1;
+	var dataStore2 = Kinvey.DataStore.collection("Florist");
 	viewModel = new observable.Observable();
-	const query = new Kinvey.Query();
-	query.equalTo('service', 'SPA');
-	const subscription = dataStore.find(query)
+	var activeUser = Kinvey.User.getActiveUser();
+	console.log(activeUser);
+	var subscription = dataStore2.find()
 	.subscribe(function(entities) {
+		// ...
+		var services= [];
+		var images= [];
+		var age =[];
+		var age2 =[];
+		console.log(entities);
+		// var length = entities.length;
+		// if (length !== 0){
+		// 	for (i=0;i<length;i++){
+		// 		var thing = {service: entities[i].Flower};
+		// 		var thing2 = {image: entities[i].image};
+		// 		this.age = entities[i].Flower;
+		// 		this.age2 = entities[i].image;
+		// 		services.push(entities[i].Flower);
+		// 		images.push(entities[i].image);
+		// 		console.log("yes   "+this.age);
+		// 		console.log("yes 2.0   "+this.age2);
+		// 	}
+		// }
+		
+
 		viewModel.set("myItems", entities);
-	 	console.log(viewModel.get("myItems"));
-	 	page.bindingContext = viewModel;
-		// ...
+		console.log(viewModel.get("myItems"));
+
+		page.bindingContext = viewModel;
 	}, function(error) {
-		// ...
 		console.log(error);
+		// ...
 	}, function() {
 		// ...
 	});
+
 
 };
 
