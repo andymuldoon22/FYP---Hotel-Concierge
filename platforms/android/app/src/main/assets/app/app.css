@@ -2,7 +2,7 @@
 @import url('~/android.css');
 
 Page {
-    background-color: rgb(103, 192, 233);
+    background-color: whitesmoke;
     font-size: 17;
 }
 TextField {
@@ -15,15 +15,25 @@ Image {
     margin-right: 10;
     margin-bottom: 10;
 }
+DropDown{
+    margin: 10;
+    padding: 10;
+}
 Button {
     margin: 10;
     padding: 10;
-    background-color:  rgb(32, 67, 224);
+    background-color:  rgb(0, 192, 0);
+    border-radius: 12px;
+}
+.b2 {
+    margin: 10;
+    padding: 10;
+    background-color:  red;
     border-radius: 12px;
 }
 
 ActionBar {
-    background-color:  rgb(32, 67, 224);
+    background-color:  rgb(0, 192, 0);
     color: Black;
     
 }

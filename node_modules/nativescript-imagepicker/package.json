@@ -1,27 +1,31 @@
 {
-  "_from": "nativescript-imagepicker",
+  "_args": [
+    [
+      "nativescript-imagepicker@5.0.0",
+      "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld"
+    ]
+  ],
+  "_from": "nativescript-imagepicker@5.0.0",
   "_id": "nativescript-imagepicker@5.0.0",
   "_inBundle": false,
   "_integrity": "sha512-Hu2g8oLm3F+1cgNN33ZEEzx4js1oWDQD3LBg50V2vd6X9Ry47LKu/xsk44DLNreNtLMZjb6u/BJRMVeY3PIqpQ==",
   "_location": "/nativescript-imagepicker",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
+    "type": "version",
     "registry": true,
-    "raw": "nativescript-imagepicker",
+    "raw": "nativescript-imagepicker@5.0.0",
     "name": "nativescript-imagepicker",
     "escapedName": "nativescript-imagepicker",
-    "rawSpec": "",
+    "rawSpec": "5.0.0",
     "saveSpec": null,
-    "fetchSpec": "latest"
+    "fetchSpec": "5.0.0"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/nativescript-imagepicker/-/nativescript-imagepicker-5.0.0.tgz",
-  "_shasum": "f30e2384eb477c56cd91c0d454e69f6a56ba68f7",
-  "_spec": "nativescript-imagepicker",
+  "_spec": "5.0.0",
   "_where": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld",
   "author": {
     "name": "NativeScript Team"
@@ -30,13 +34,11 @@
   "bugs": {
     "url": "https://github.com/NativeScript/nativescript-imagepicker/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "nativescript-permissions": "~1.2.3",
     "nativescript-ui-core": "^1.0.0",
     "nativescript-ui-listview": "^3.5.0"
   },
-  "deprecated": false,
   "description": "A plugin for the NativeScript framework implementing multiple image picker",
   "devDependencies": {
     "tns-core-modules": "^3.1.0",

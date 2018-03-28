@@ -8,8 +8,8 @@
             <!-- <TextField id="photo" secure="true" text="{{ photo }}" hint="photo" /> -->
 			<Image *ngif = "myImage" class="imageCss" src="{{myImage}}" stretch="aspectFill">
 			</Image>
-			<Button class="btn btn-outline" text="Upload Image" tap="GetPicture"/>
-            <Button text="Log In" tap="login" class="btn btn-outline"/>
+			<Button text="Upload Image" tap="GetPicture"/>
+            <Button text="Log In" tap="login"/>
 		</StackLayout>
 	</ScrollView>
 </Page>

@@ -1,18 +1,19 @@
-<Page loaded="service_login_loaded" xmlns:df="nativescript-pro-ui/dataform" xmlns="http://schemas.nativescript.org/tns.xsd" xmlns:dd="nativescript-drop-down" >
-    <ActionBar title="Upload your Product/Service">
-			<NavigationButton icon="res://ic_menu" tap="showSideDrawer" />
+<Page loaded="service_login_loaded" xmlns:df="nativescript-pro-ui/dataform" xmlns="http://schemas.nativescript.org/tns.xsd"
+    xmlns:dd="nativescript-drop-down">
+	<ActionBar title="Upload your Product/Service">
+		<ActionItem tap="onNavBtnTap" ios.systemIcon="16" ios.position="right" text="delete" android.position="popup"></ActionItem>
 	</ActionBar>
 	<ScrollView sdkExampleTitle sdkToggleNavButton>
-    <StackLayout class="p-20">
-		<Label text="Flower Name"></Label>
-	    <TextField id="flowerName" hint="Enter Flower Name" ></TextField>
-		<Label text="Price"></Label>
-	    <TextField id="price" hint="Please enter the rice" ></TextField>
-	    <Label text="Please upload an image"></Label>
-	    <Image id = "myImage" class="imageCss" >
+		<StackLayout class="p-20">
+			<Label text="Product Name"></Label>
+			<TextField id="flowerName" hint="Enter roduct name"></TextField>
+			<Label text="Price"></Label>
+			<TextField id="price" hint="Please enter the price"></TextField>
+			<Label text="Please upload an image"></Label>
+			<Image id="myImage" class="imageCss">
 			</Image>
-		<Button text="Upload Image" tap="GetPicture"/>	  
-		<Button text="Submit" type="Submit" tap="submit"/>  
-	</StackLayout>
+			<Button text="Upload Image" tap="GetPicture" />
+			<Button text="Submit" type="Submit" tap="submit" />
+		</StackLayout>
 	</ScrollView>
 </Page>

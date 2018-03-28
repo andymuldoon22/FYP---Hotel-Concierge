@@ -1,27 +1,32 @@
 {
-  "_from": "nativescript-sqlite@~1.1.11",
+  "_args": [
+    [
+      "nativescript-sqlite@1.1.11",
+      "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld"
+    ]
+  ],
+  "_from": "nativescript-sqlite@1.1.11",
   "_id": "nativescript-sqlite@1.1.11",
   "_inBundle": false,
   "_integrity": "sha512-umgv6Y1e+WldHLCbC9kjhVa9VE1O0e0oPLtJveXidzpiIJAWT9x+NYcFQsBFcPBdzmy6HKqrINvT5DhVYs+DOA==",
   "_location": "/nativescript-sqlite",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
+    "type": "version",
     "registry": true,
-    "raw": "nativescript-sqlite@~1.1.11",
+    "raw": "nativescript-sqlite@1.1.11",
     "name": "nativescript-sqlite",
     "escapedName": "nativescript-sqlite",
-    "rawSpec": "~1.1.11",
+    "rawSpec": "1.1.11",
     "saveSpec": null,
-    "fetchSpec": "~1.1.11"
+    "fetchSpec": "1.1.11"
   },
   "_requiredBy": [
     "/kinvey-nativescript-sdk"
   ],
   "_resolved": "https://registry.npmjs.org/nativescript-sqlite/-/nativescript-sqlite-1.1.11.tgz",
-  "_shasum": "c265a3f4e228d94b07fd9b9ac6306ae52508e749",
-  "_spec": "nativescript-sqlite@~1.1.11",
-  "_where": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld\\node_modules\\kinvey-nativescript-sdk",
+  "_spec": "1.1.11",
+  "_where": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld",
   "author": {
     "name": "Nathanael Anderson",
     "email": "nathan@master-technology.com"
@@ -29,8 +34,6 @@
   "bugs": {
     "url": "https://github.com/nathanaela/nativescript-sqlite/issues"
   },
-  "bundleDependencies": false,
-  "deprecated": false,
   "description": "A sqlite NativeScript module for Android and iOS",
   "homepage": "https://github.com/nathanaela/nativescript-sqlite",
   "keywords": [

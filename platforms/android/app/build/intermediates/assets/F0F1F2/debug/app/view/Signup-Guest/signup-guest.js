@@ -63,7 +63,7 @@ exports.signup = function(){
 			console.log(user);
 			var topmost = frameModule.topmost();
 			if (role = 1){
-				topmost.navigate("view/Signup-Serviceprovider/signup-serviceprovider");
+				topmost.navigate("view/Signup-ServiceProvider/signup-serviceprovider");
 			}else{
 				topmost.navigate("view/Main-Guest/main-guest");
 			}

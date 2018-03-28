@@ -12,12 +12,13 @@
 			<Label text="€20-€50" row="4" class="h1 text-center"></Label>
 			<Image src="~/images/florists/yellow.jpg" row="5" text="Florists" stretch="none"  width="100%" height="100%"  horizontalAlignment="center" verticalAlignment="center"></Image>
 		</StackLayout> -->
-		<ListView items="{{ myItems }}" itemTap="image" >
+		<ListView items="{{ myItems }}" itemTap="image">
 			<ListView.itemTemplate>
 				<StackLayout orientation="horizontal">
 					<Image width="300px" height="200px" src="{{image}}" />
 					<StackLayout orientation="vertical">
-					<Label id="service" text="{{Flower}}" class="h1 text-center"/>
+						<Label id="service" text="{{Flower}}" class="h1 text-center" />
+						<Label id="price" text="{{price}}" class="h2 text-center" />
 					</StackLayout>
 				</StackLayout>
 			</ListView.itemTemplate>

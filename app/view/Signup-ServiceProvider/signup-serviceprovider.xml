@@ -26,8 +26,6 @@
 		<TimePicker loaded="onPickerLoadedOpening" timeChange="onTimeChangedOpening" verticalAlignment="center" class="m-15"></TimePicker>
 		<Label text="Closing Hours"></Label>
 		<TimePicker loaded="onPickerLoadedClosing" timeChange="onTimeChangedClosing" verticalAlignment="center" class="m-15"></TimePicker>	
-		<Label text="Description of Company"></Label>
-		<TextField id="Description" hint="Any other relavent information" ></TextField>
 		<Button text="Submit" type="Submit" tap="submit"/>	    
 	</StackLayout>
 	</ScrollView>

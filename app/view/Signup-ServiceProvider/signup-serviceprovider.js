@@ -123,17 +123,8 @@ exports.submit = function(){
 	selectedService = viewModel.get("selectedService");
 	var county = counties[selectedCounty];
 	var service = services[selectedService];
-	var openinghour = timePickerOpen.hour.toString() +timePickerOpen.minute.toString();
-	var closinghour = timePickerClosing.hour.toString() +timePickerClosing.minute.toString();
-	console.log(openinghour);
-	console.log(closinghour);
-	console.log(service);
-	console.log(county);
-	console.log(city.text);
-	console.log(addressline1.text);
-	console.log(addressline2.text);
-	console.log(companyPhoneNo.text);
-	console.log("User ID" + Kinvey.User.getActiveUser().data._id);
+	var openinghour = timePickerOpen.hour.toString()+ ":" +timePickerOpen.minute.toString();
+	var closinghour = timePickerClosing.hour.toString()+ ":" +timePickerClosing.minute.toString();
 
 	var promise = dataStore.save({
 		ID: Kinvey.User.getActiveUser().data._id,

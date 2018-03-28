@@ -3,12 +3,13 @@
     "nativescript-drop-down": true,
     "nativescript-imagepicker": true,
     "nativescript-theme-core": true,
+    "nativescript-ui-listview": true,
+    "nativescript-ui-sidedrawer": true,
     "tns-core-modules": true,
     "nativescript-sqlite": true,
     "rxjs": true,
     "nativescript-permissions": true,
     "nativescript-ui-core": true,
-    "nativescript-ui-listview": true,
     "tns-core-modules-widgets": true,
     "symbol-observable": true
 }

@@ -3,48 +3,21 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\Owner\.android\build-cache\e8ae01cb2c4fbe602826d0b0f01d5adcf0267901\output\jars\classes.jar"
+        jar="C:\Users\Owner\.android\build-cache\9b572074721240fc46ab1a85268a037e063bc59c\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
-        <dex dex="C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_e456cbe83cc85f32418379b18ef9bcc3dbacd891.jar" />
+        sha1="c5d9ca53bf371b1420e4a8d4a18f293a6833b51d">
+        <dex dex="C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_e7150e24b701214bbdf9e69d9dc3c3a14eb781ea.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Owner\.android\build-cache\126d3eaa5c1218633015cbe98f2f4f26437be73d\output\jars\classes.jar"
+        jar="C:\Users\Owner\.android\build-cache\028a0a594830d2ed80089b4dab8682a1edf03cd8\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="746274223beb11b1cda7854d7eec3038695c2c93">
-        <dex dex="C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_139d77f1dbafe77781b48049a0470dd509103271.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Owner\.android\build-cache\d44bd39af6b02d4ddf94be1c052fab714ece3abd\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="83f711d70ef9ce041ead02bc16e944130c58d05a">
-        <dex dex="C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_5b586653a0daf6649e2c60fc5b0184abbe790501.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
-        <dex dex="C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\F0\debug\gson-2.4_b03f485fe1919542211a8c0aa4b31ece928a21b9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Owner\.android\build-cache\f3e508922f87151d8f83c6b43b2333c9132a6ec6\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9b5a7bd266567dc83b7f0dd42fc36b08bed3ac19">
-        <dex dex="C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_d4f2bacc0d04ef175c3603daa7347c3a3498c8b1.jar" />
+        <dex dex="C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_cdecdbe60ddde0a92beb6511cc7a3456a971b126.jar" />
     </item>
 
 </items>

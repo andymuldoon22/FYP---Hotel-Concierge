@@ -8,6 +8,6 @@
 		<TextField id="email" text="{{ email }}" hint="Email Address" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
 		<TextField id="pw" secure="true" text="{{ password }}" hint="Password" />
 		<dd:DropDown items="{{ role }}" selectedIndex="{{ selectedRole }}" opened="dropDownOpened" selectedIndexChanged="dropDownSelectedIndexChanged" />
-		<Button text="Sign Up" class="link" tap="signup" class="btn btn-outline"/>
+		<Button text="Sign Up" class="link" tap="signup" />
 	</StackLayout>
 </Page>

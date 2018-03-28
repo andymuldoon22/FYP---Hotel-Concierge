@@ -1,5 +1,5 @@
 {
-  "_from": "tns-core-modules",
+  "_from": "tns-core-modules@latest",
   "_id": "tns-core-modules@3.4.1",
   "_inBundle": false,
   "_integrity": "sha512-sz/yTmoW7WyDPpr4JEC+trlfiEI14X365jGF//tMCT/G6ISzANr43wc17fgbGH1UA1XbKzujbAl0xPNssRHVUA==",
@@ -8,10 +8,10 @@
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "tns-core-modules",
+    "raw": "tns-core-modules@latest",
     "name": "tns-core-modules",
     "escapedName": "tns-core-modules",
-    "rawSpec": "",
+    "rawSpec": "latest",
     "saveSpec": null,
     "fetchSpec": "latest"
   },
@@ -21,7 +21,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/tns-core-modules/-/tns-core-modules-3.4.1.tgz",
   "_shasum": "be6882cd04127296e8803eeb10eb7ebfd9afe717",
-  "_spec": "tns-core-modules",
+  "_spec": "tns-core-modules@latest",
   "_where": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld",
   "bundleDependencies": false,
   "dependencies": {

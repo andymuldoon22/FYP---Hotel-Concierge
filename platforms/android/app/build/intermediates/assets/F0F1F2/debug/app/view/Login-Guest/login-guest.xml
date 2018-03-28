@@ -1,7 +1,7 @@
-<Page loaded="loaded">
-	<ActionBar title="Guests LogIn" icon="res://ic_menu">
+<!-- <Page loaded="loaded">
+	<ActionBar title="Guests LogIn">
   <android>
-    <NavigationButton icon="res://ic_menu" tap="showSideDrawer" />
+			<NavigationButton text="Go Back" android.systemIcon="ic_menu_forward" ngIf="isNavVisible" tap="onNavBtnTap"/>
   </android>
   </ActionBar>
   	<ScrollView>
@@ -10,9 +10,13 @@
             <TextField id="username" text="{{ username }}" hint="username" keyboardType="url" autocorrect="false" autocapitalizationType="none" />
             <TextField id="pw" secure="true" text="{{ password }}" hint="Password" />
 
-            <Button text="Log In" tap="login" class="btn btn-outline"/>
-            <Button text="Sign Up" tap="signup" class="btn btn-outline"/>
-            <Button text="Switch to Service Provider" tap="ToServiceProvider" class="btn btn-outline"/>
+            <Button text="Log In" tap="login" />
+            <Button text="Sign Up" tap="signup" />
+            
         </StackLayout>
 	</ScrollView>
+</Page> -->
+<Page xmlns:sd="nativescript-ui-sidedrawer">
+    <sd:RadSideDrawer>
+    </sd:RadSideDrawer>
 </Page>

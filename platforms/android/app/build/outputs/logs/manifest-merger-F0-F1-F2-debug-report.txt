@@ -32,9 +32,10 @@ uses-sdk
 ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
 MERGED from [com.orhanobut:hawk:2.0.1] C:\Users\Owner\.android\build-cache\3ee388021f77c4cddafe9aa06cac44173442f50f\output\AndroidManifest.xml:6:5-44
 MERGED from [com.facebook.conceal:conceal:1.1.3] C:\Users\Owner\.android\build-cache\44eb787dd02721c386ea02264e8c8a1623144030\output\AndroidManifest.xml:12:5-14:41
-MERGED from [:nativescript-optimized:] C:\Users\Owner\.android\build-cache\126d3eaa5c1218633015cbe98f2f4f26437be73d\output\AndroidManifest.xml:7:5-9:41
-MERGED from [:TNSCore-release:] C:\Users\Owner\.android\build-cache\d44bd39af6b02d4ddf94be1c052fab714ece3abd\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized:] C:\Users\Owner\.android\build-cache\028a0a594830d2ed80089b4dab8682a1edf03cd8\output\AndroidManifest.xml:7:5-9:41
 MERGED from [:TNSListView-release:] C:\Users\Owner\.android\build-cache\f3e508922f87151d8f83c6b43b2333c9132a6ec6\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSSideDrawer-release:] C:\Users\Owner\.android\build-cache\9b572074721240fc46ab1a85268a037e063bc59c\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSCore-release:] C:\Users\Owner\.android\build-cache\d44bd39af6b02d4ddf94be1c052fab714ece3abd\output\AndroidManifest.xml:7:5-9:41
 MERGED from [:widgets-release:] C:\Users\Owner\.android\build-cache\e8ae01cb2c4fbe602826d0b0f01d5adcf0267901\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:design:25.3.1] C:\Users\Owner\.android\build-cache\add6cf848079acc5f6dcdffca6d4ecd6787a0820\output\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Owner\.android\build-cache\9984e58c41d46709f8ed37b9466f30727efa871b\output\AndroidManifest.xml:21:5-23:78

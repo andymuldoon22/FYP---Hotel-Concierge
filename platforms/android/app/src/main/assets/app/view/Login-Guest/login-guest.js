@@ -9,10 +9,10 @@ var page;
 var username;
 var pw;
 
-var user = new observableModule.fromObject({
-    username: 'finally',
-    pw: 'finally'
-});
+// var user = new observableModule.fromObject({
+//     username: 'User',
+//     pw: 'finally'
+// });
 
 exports.loaded = function(args) {
     
@@ -26,7 +26,7 @@ exports.loaded = function(args) {
     });
 
     page = args.object;
-    page.bindingContext = user;
+    // page.bindingContext = user;
     var activeUser = Kinvey.User.getActiveUser();
 
     Kinvey.ping()
@@ -57,6 +57,9 @@ exports.login = function(args){
             }else if (user.data.role == "guest"){
                 console.log("logging in as a guest");
                 topmost.navigate("view/Main-Guest/main-guest");
+            }else if (user.data.role == "admin"){
+                console.log("logging in as a guest");
+                topmost.navigate("view/Admin-Main/admin-main");
             }
         })
         .catch(function(error) {

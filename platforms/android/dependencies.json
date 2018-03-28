@@ -16,6 +16,14 @@
         "directory": "..\\..\\node_modules\\nativescript-theme-core"
     },
     {
+        "name": "nativescript-ui-listview",
+        "directory": "..\\..\\node_modules\\nativescript-ui-listview"
+    },
+    {
+        "name": "nativescript-ui-sidedrawer",
+        "directory": "..\\..\\node_modules\\nativescript-ui-sidedrawer"
+    },
+    {
         "name": "tns-core-modules",
         "directory": "..\\..\\node_modules\\tns-core-modules"
     },
@@ -30,10 +38,6 @@
     {
         "name": "nativescript-ui-core",
         "directory": "..\\..\\node_modules\\nativescript-ui-core"
-    },
-    {
-        "name": "nativescript-ui-listview",
-        "directory": "..\\..\\node_modules\\nativescript-ui-listview"
     },
     {
         "name": "tns-core-modules-widgets",

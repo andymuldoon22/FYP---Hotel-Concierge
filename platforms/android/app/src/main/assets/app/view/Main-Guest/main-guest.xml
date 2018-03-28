@@ -1,25 +1,19 @@
 <Page loaded="guest_main" xmlns="http://schemas.nativescript.org/tns.xsd">
-	<ActionBar title="Services">
-		<NavigationButton></NavigationButton>
-	</ActionBar>
+	<Page.actionBar>
+		<ActionBar title="Services">
+			<ActionItem tap="onNavBtnTap" ios.systemIcon="16" ios.position="right" text="delete" android.position="popup"></ActionItem>
+		</ActionBar>
+	</Page.actionBar>
 	<ScrollView sdkExampleTitle sdkToggleNavButton>
-		<!-- <StackLayout orientation="vertical">
-			<Label text="Florists" row="0" class="h1 text-center"></Label>
-			<Image src="~/images/florists.jpg" row="1" tap="image" id="image" stretch="none"  width="100%" height="100%" horizontalAlignment="center" verticalAlignment="center"></Image>
-			<Label text="Clothes" row="2" class="h1 text-center"></Label>			
-			<Image src="~/images/clothes.jpg" row="3" text="Florists" stretch="none"  width="100%" height="100%" horizontalAlignment="center" verticalAlignment="center"></Image>
-			<Label text="SPA" row="4" class="h1 text-center"></Label>
-			<Image src="~/images/spa.jpg" row="5" text="Florists" stretch="none"  width="100%" height="100%"  horizontalAlignment="center" verticalAlignment="center"></Image>
-		</StackLayout> -->
-		<ListView items="{{ myItems }}" itemTap="image" >
-      <ListView.itemTemplate class=".a">
-				<!-- <StackLayout orientation="horizontal"> -->
-					<!-- <Image width="300px" height="200px" src="~/images/spa.jpg" /> -->
-					<StackLayout orientation="vertical" >
-						<Label id="service" text="{{Service}}" class="h1 text-center"/>
+		<ListView items="{{ myItems }}" itemTap="image">
+			<ListView.itemTemplate class=".a">
+				<StackLayout orientation="horizontal">
+					<Image width="300px" height="200px" src="url" />
+					<StackLayout orientation="vertical">
+						<Label id="service" text="{{Service}}" class="h1 text-center" />
 					</StackLayout>
-				<!-- </StackLayout> -->
+				</StackLayout>
 			</ListView.itemTemplate>
-    </ListView>
+		</ListView>
 	</ScrollView>
 </Page>

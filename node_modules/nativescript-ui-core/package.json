@@ -1,28 +1,33 @@
 {
-  "_from": "nativescript-ui-core@^1.0.0",
+  "_args": [
+    [
+      "nativescript-ui-core@1.0.0",
+      "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld"
+    ]
+  ],
+  "_from": "nativescript-ui-core@1.0.0",
   "_id": "nativescript-ui-core@1.0.0",
   "_inBundle": false,
   "_integrity": "sha1-rUkCflXMw7f1sybr0KoBlGwbaL8=",
   "_location": "/nativescript-ui-core",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
+    "type": "version",
     "registry": true,
-    "raw": "nativescript-ui-core@^1.0.0",
+    "raw": "nativescript-ui-core@1.0.0",
     "name": "nativescript-ui-core",
     "escapedName": "nativescript-ui-core",
-    "rawSpec": "^1.0.0",
+    "rawSpec": "1.0.0",
     "saveSpec": null,
-    "fetchSpec": "^1.0.0"
+    "fetchSpec": "1.0.0"
   },
   "_requiredBy": [
     "/nativescript-imagepicker",
     "/nativescript-ui-listview"
   ],
   "_resolved": "https://registry.npmjs.org/nativescript-ui-core/-/nativescript-ui-core-1.0.0.tgz",
-  "_shasum": "ad49027e55ccc3b7f5b326ebd0aa01946c1b68bf",
-  "_spec": "nativescript-ui-core@^1.0.0",
-  "_where": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld\\node_modules\\nativescript-imagepicker",
+  "_spec": "1.0.0",
+  "_where": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld",
   "author": {
     "name": "Progress"
   },
@@ -30,9 +35,7 @@
   "bugs": {
     "url": "https://github.com/telerik/nativescript-ui-feedback/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {},
-  "deprecated": false,
   "description": "Helper plugin that contains common native code shared among plugins.",
   "devDependencies": {
     "prompt": "^1.0.0",

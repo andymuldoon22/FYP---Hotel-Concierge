@@ -7,12 +7,13 @@ C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\nativescript-drop-down\angular\index.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\nativescript-imagepicker\imagepicker.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\nativescript-permissions\permissions.js
-C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\nativescript-pro-ui\scripts\eula-prompt.js
-C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\nativescript-social-share\social-share.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\nativescript-sqlite\sqlite.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\nativescript-ui-listview\ui-listview.common.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\nativescript-ui-listview\ui-listview.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\nativescript-ui-listview\hooks\before-livesync\nativescript-angular-sync.js
+C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\nativescript-ui-sidedrawer\ui-sidedrawer.common.js
+C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\nativescript-ui-sidedrawer\ui-sidedrawer.js
+C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\nativescript-ui-sidedrawer\hooks\before-livesync\nativescript-angular-sync.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\bundle-entry-points.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\application\application-common.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\application\application.js
@@ -166,6 +167,7 @@ C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\xhr\xhr.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\xml\xml.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\view\Admin-Main\admin-main.js
+C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\view\Jobs-Guest\jobs-guest.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\view\Login-Guest\login-guest.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\view\Main-Guest\main-guest.js
 C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\assets\app\view\Main-Guest-Service\main-guest-service.js

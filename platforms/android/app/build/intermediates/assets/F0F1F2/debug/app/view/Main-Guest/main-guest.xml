@@ -1,17 +1,40 @@
-<Page xmlns="http://schemas.nativescript.org/tns.xsd" xmlns:lv="nativescript-ui-listview" loaded="pageLoaded">
-
-    <ActionBar title="RadListView Demo" class="action-bar" />
-
-    <lv:RadListView id="listview" class="list-group"> 
-        <lv:RadListView.listViewLayout>
-            <lv:ListViewLinearLayout scrollDirection="Vertical"/>
-        </lv:RadListView.listViewLayout>
-        <lv:RadListView.itemTemplate>
-            <StackLayout class="list-group-item">
-                <Label text="{{ itemName }}" class="list-group-item-heading" />
-                <Label text="{{ itemDesc }}" textWrap="true" class="list-group-item-text" />
-            </StackLayout>
-        </lv:RadListView.itemTemplate>
-    </lv:RadListView>
-
+<!-- <Page loaded="guest_main" xmlns="http://schemas.nativescript.org/tns.xsd">
+	<Page.actionBar>
+		<ActionBar title="Services">
+			<NavigationButton text="Go Back" android.systemIcon="ic_menu_back" tap="onNavBtnTap"/>
+		</ActionBar>
+	</Page.actionBar>
+	<ScrollView sdkExampleTitle sdkToggleNavButton>
+		<ListView items="{{ myItems }}" itemTap="image" >
+      <ListView.itemTemplate class=".a">
+			<StackLayout orientation="horizontal">
+					<Image width="300px" height="200px" src="{{Image}}" />
+					<StackLayout orientation="vertical" >
+						<Label id="service" text="{{Service}}" class="h1 text-center"/>
+					</StackLayout>
+				</StackLayout>
+			</ListView.itemTemplate>
+    </ListView>
+	</ScrollView>
+</Page> -->
+<Page>
+<Page.actionBar>
+		<ActionBar title="Services">
+			<NavigationButton text="Go Back" android.systemIcon="ic_menu_back" tap="onNavBtnTap"/>
+		</ActionBar>
+	</Page.actionBar>
+ <TabView>
+   <TabView.items>
+     <TabViewItem title="Tab 1">
+       <TabViewItem.view>
+          <Label text="Label in Tab1" />
+       </TabViewItem.view>
+     </TabViewItem>
+     <TabViewItem title="Tab 2">
+       <TabViewItem.view>
+          <Label text="Label in Tab2" />
+       </TabViewItem.view>
+     </TabViewItem>
+   </TabView.items>
+ </TabView>
 </Page>

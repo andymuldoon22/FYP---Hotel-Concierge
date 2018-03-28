@@ -13,6 +13,12 @@ body{
 	overflow: hidden; 
 }
 
+.a{
+	background:red;
+	margin-top: 1;
+    margin-left: 1;
+}
+
 .scrollBar{
 	width: 5px;
 	height: 100%;

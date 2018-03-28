@@ -1,0 +1,19 @@
+<Page loaded="guest_main" xmlns="http://schemas.nativescript.org/tns.xsd">
+	<ActionBar title="Jobs">
+		<NavigationButton></NavigationButton>
+	</ActionBar>
+	<ScrollView sdkExampleTitle sdkToggleNavButton>
+		<ListView items="{{ myJobs }}" itemTap="image" >
+			<ListView.itemTemplate>
+				<StackLayout orientation="horizontal">
+					<!-- <Image width="300px" height="200px" src="{{image}}" /> -->
+					<StackLayout orientation="vertical">
+					<Label id="Date" text="{{Date}}" class="h1 text-center"/>
+					<Label id="time" text="{{time}}" class="h2 text-center"/>
+                    <Label id="status" text="{{status}}" class="h2 text-center"/>
+					</StackLayout>
+				</StackLayout>
+			</ListView.itemTemplate>
+		</ListView>
+	</ScrollView>
+</Page>
