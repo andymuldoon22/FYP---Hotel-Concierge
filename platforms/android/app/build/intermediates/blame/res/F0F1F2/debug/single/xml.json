@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\xml\\provider_paths.xml",
         "source": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld\\platforms\\android\\app\\src\\F1\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\Owner\\Desktop\\FYP\\FinalYearProjectGit\\platforms\\android\\app\\src\\F1\\res\\xml\\provider_paths.xml"
     }
 ]

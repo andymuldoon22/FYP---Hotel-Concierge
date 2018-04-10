@@ -5,12 +5,12 @@
 		</ActionBar>
 	</Page.actionBar>
 	<ScrollView sdkExampleTitle sdkToggleNavButton>
-		<ListView items="{{ myItems }}" itemTap="image">
+		<ListView items="{{ services }}" itemTap="image">
 			<ListView.itemTemplate class=".a">
-				<StackLayout orientation="horizontal">
-					<Image width="300px" height="200px" src="url" />
+				<StackLayout orientation="vertical">
+					<Image width="100%" height="100%" src="{{image}}" />
 					<StackLayout orientation="vertical">
-						<Label id="service" text="{{Service}}" class="h1 text-center" />
+						<Label id="service" text="{{service}}" class="h1 text-center" />
 					</StackLayout>
 				</StackLayout>
 			</ListView.itemTemplate>

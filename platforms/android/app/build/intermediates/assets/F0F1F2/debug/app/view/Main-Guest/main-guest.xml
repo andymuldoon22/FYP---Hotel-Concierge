@@ -1,40 +1,19 @@
-<!-- <Page loaded="guest_main" xmlns="http://schemas.nativescript.org/tns.xsd">
+<Page loaded="guest_main" xmlns="http://schemas.nativescript.org/tns.xsd">
 	<Page.actionBar>
 		<ActionBar title="Services">
-			<NavigationButton text="Go Back" android.systemIcon="ic_menu_back" tap="onNavBtnTap"/>
+			<ActionItem tap="onNavBtnTap" ios.systemIcon="16" ios.position="right" text="delete" android.position="popup"></ActionItem>
 		</ActionBar>
 	</Page.actionBar>
 	<ScrollView sdkExampleTitle sdkToggleNavButton>
-		<ListView items="{{ myItems }}" itemTap="image" >
-      <ListView.itemTemplate class=".a">
-			<StackLayout orientation="horizontal">
-					<Image width="300px" height="200px" src="{{Image}}" />
-					<StackLayout orientation="vertical" >
-						<Label id="service" text="{{Service}}" class="h1 text-center"/>
+		<ListView items="{{ myItems }}" itemTap="image">
+			<ListView.itemTemplate class=".a">
+				<StackLayout orientation="horizontal">
+					<Image width="300px" height="200px" src="url" />
+					<StackLayout orientation="vertical">
+						<Label id="service" text="{{Service}}" class="h1 text-center" />
 					</StackLayout>
 				</StackLayout>
 			</ListView.itemTemplate>
-    </ListView>
+		</ListView>
 	</ScrollView>
-</Page> -->
-<Page>
-<Page.actionBar>
-		<ActionBar title="Services">
-			<NavigationButton text="Go Back" android.systemIcon="ic_menu_back" tap="onNavBtnTap"/>
-		</ActionBar>
-	</Page.actionBar>
- <TabView>
-   <TabView.items>
-     <TabViewItem title="Tab 1">
-       <TabViewItem.view>
-          <Label text="Label in Tab1" />
-       </TabViewItem.view>
-     </TabViewItem>
-     <TabViewItem title="Tab 2">
-       <TabViewItem.view>
-          <Label text="Label in Tab2" />
-       </TabViewItem.view>
-     </TabViewItem>
-   </TabView.items>
- </TabView>
 </Page>

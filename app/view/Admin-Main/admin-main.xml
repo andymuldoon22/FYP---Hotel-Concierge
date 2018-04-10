@@ -1,15 +1,56 @@
-<Page loaded="admin_main" xmlns="http://schemas.nativescript.org/tns.xsd" >
+<!-- <Page loaded="admin_main" xmlns="http://schemas.nativescript.org/tns.xsd" >
 	<ActionBar title="Admin">
 		<NavigationButton icon="res://ic_menu"/>
 	</ActionBar>
 	<ScrollView sdkExampleTitle sdkToggleNavButton>
 		<StackLayout orientation="vertical">
 			<TextField id="servicename" text="{{ servicename }}" hint="service name" keyboardType="url" autocorrect="false" autocapitalizationType="none" />
-            <!-- <TextField id="photo" secure="true" text="{{ photo }}" hint="photo" /> -->
 			<Image *ngif = "myImage" class="imageCss" src="{{myImage}}" stretch="aspectFill">
 			</Image>
 			<Button text="Upload Image" tap="GetPicture"/>
             <Button text="Log In" tap="login"/>
 		</StackLayout>
 	</ScrollView>
+</Page> -->
+<Page loaded="guest_main" xmlns="http://schemas.nativescript.org/tns.xsd">
+	<ActionBar title="Admin">
+	</ActionBar>
+	<TabView>
+		<TabView.items>
+			<TabViewItem title="Add new service">
+				<TabViewItem.view>
+					<!-- <Label text="Label in Tab1" /> -->
+					<ScrollView sdkExampleTitle sdkToggleNavButton>
+						<StackLayout orientation="vertical">
+							<TextField id="servicename" text="{{ servicename }}" hint="service name" keyboardType="url" autocorrect="false" autocapitalizationType="none"
+							/>
+							<Image *ngif="myImage" class="imageCss" src="{{myImage}}" stretch="aspectFill">
+							</Image>
+							<Button text="Upload Image" tap="GetPicture" />
+							<Button text="Add Service" tap="addservice" />
+						</StackLayout>
+					</ScrollView>
+				</TabViewItem.view>
+			</TabViewItem>
+			<TabViewItem title="Review Service Providers">
+				<TabViewItem.view>
+					<ScrollView sdkExampleTitle sdkToggleNavButton>
+						<ListView items="{{ myItems }}" itemTap="image">
+							<ListView.itemTemplate >
+								<StackLayout orientation="vertical">
+									<Label id="name" text="{{name, 'Name: ' + name}}" textWrap="true" class="h1" />
+									<Label id="service" text="{{service, 'Service: ' + service}}"  class="h2" />
+									<Label id="rating" text="{{rating, 'Average Rating: ' + rating}}" class="h2" />
+									<Label id="timesused" text="{{timesused, 'Times Used: ' + timesused}}" class="h2" />
+									<!-- <StackLayout orientation="vertical" >
+										<Button text="Remove" tap="Remove" class=".b2" />
+									</StackLayout> -->
+								</StackLayout>
+							</ListView.itemTemplate>
+						</ListView>
+					</ScrollView>
+				</TabViewItem.view>
+			</TabViewItem>
+		</TabView.items>
+	</TabView>
 </Page>

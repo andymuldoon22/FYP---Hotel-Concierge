@@ -3,12 +3,30 @@
 
     <item
         is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\a7fdfb39f9efc2fb01a967d98680a8f7dd4a66cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5d9ca53bf371b1420e4a8d4a18f293a6833b51d">
+        <dex dex="C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_d0d88a9d1a33eaafb40b2476c947f0645024e7b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Owner\.android\build-cache\9b572074721240fc46ab1a85268a037e063bc59c\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="c5d9ca53bf371b1420e4a8d4a18f293a6833b51d">
         <dex dex="C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_e7150e24b701214bbdf9e69d9dc3c3a14eb781ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\c700555c0358f97b590ab00fa2be38d24a456c8d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_50f3819fdc4947d7116a87f1a12db7c54821e466.jar" />
     </item>
     <item
         is-multidex="false"

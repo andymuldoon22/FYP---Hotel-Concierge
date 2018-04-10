@@ -3,10 +3,9 @@
 	</ActionBar>
 	<ScrollView sdkExampleTitle sdkToggleNavButton>
 		<StackLayout class="p-20">
-			<Label text="Company Preference"></Label>
-			<dd:DropDown items="{{ quality }}" selectedIndex="{{ selectedIndex2 }}" opened="dropDownOpened" selectedIndexChanged="dropDownSelectedIndexChanged"
-			/>
-
+			<!-- <Label text="Company Preferences 2"></Label> -->
+			<!-- <dd:DropDown items="{{ quality }}" selectedIndex="{{ selectedIndex2 }}" opened="dropDownOpened" selectedIndexChanged="dropDownSelectedIndexChanged"
+			/> -->
 			<Label text="Please select time for delivery"></Label>
 			<TimePicker loaded="onPickerLoaded" timeChange="onTimeChanged" verticalAlignment="center" class="m-15"></TimePicker>
 			<Label text="Please select date of delivery"></Label>

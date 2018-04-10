@@ -6,33 +6,35 @@ var viewModel = observable.Observable;
 var observableModule = require("data/observable");
 var Kinvey = require('kinvey-nativescript-sdk').Kinvey;
 var dataStore = Kinvey.DataStore.collection('Jobs');
-var dataStore2 = Kinvey.DataStore.collection('Florist');
+// var dataStore2 = Kinvey.DataStore.collection('Products');
 var timePickerOpen, datePicker;
 var page;
 // var activeUser = Kinvey.User.getActiveUser();
 
 var productName, productID, serviceProviderID, productPrice;
+
 exports.pageLoaded = function (args) {
 
 
-	var quality = ["Highest Rated",
-		"Quickest",
-		"Cheapest",
-		"Dearest"
-	];
-	console.log(quality);
+	// var quality = ["Highest Rated",
+	// 	"Quickest",
+	// 	"Cheapest",
+	// 	"Dearest"
+	// ];
+	// console.log(quality);
+	console.log("hell0");
 	var page = args.object;
 
 	var gotData = page.navigationContext;
 	productName = gotData.productName;
 	productID = gotData.productID;
-	serviceProviderID = gotData.serviceProviderID;
+	serviceprovider = gotData.serviceprovider;
 	productPrice = gotData.productPrice;
 
 	var items = new observableArray.ObservableArray();
 	viewModel = new observable.Observable();
 	var activeUser = Kinvey.User.getActiveUser();
-	viewModel.set("quality", quality);
+	// viewModel.set("quality", quality);
 	viewModel.set("selectedIndex2", 0);
 	page.bindingContext = viewModel;
 };
@@ -128,12 +130,12 @@ exports.submit = function () {
 	var openinghour = timePickerOpen.hour.toString() + ":" + timePickerOpen.minute.toString();
 
 	var promise = dataStore.save({
-			Guest: Kinvey.User.getActiveUser().data._id,
-			ServiceProvider: serviceProviderID,
-			productName: productName,
+			guest: Kinvey.User.getActiveUser().data.username,
+			serviceprovider: serviceprovider,
 			productID: productID,
+			product: productName,
 			productPrice: productPrice,
-			Date: orderDate,
+			date: orderDate,
 			time: openinghour,
 			// rating: service,
 			status: "requested"

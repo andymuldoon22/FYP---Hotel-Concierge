@@ -1,22 +1,13 @@
-<!-- <Page loaded="loaded">
-	<ActionBar title="Guests LogIn">
-  <android>
-			<NavigationButton text="Go Back" android.systemIcon="ic_menu_forward" ngIf="isNavVisible" tap="onNavBtnTap"/>
-  </android>
-  </ActionBar>
-  	<ScrollView>
+<Page loaded="loaded">
+    <ActionBar title="LogIn">
+    </ActionBar>
+    <ScrollView>
         <StackLayout orientation="vertical">
             <Image src="~/images/concierge.jpg" stretch="none" horizontalAlignment="center"></Image>
-            <TextField id="username" text="{{ username }}" hint="username" keyboardType="url" autocorrect="false" autocapitalizationType="none" />
+            <TextField id="username" text="{{ username }}" hint="username" autocorrect="false" autocapitalizationType="none" />
             <TextField id="pw" secure="true" text="{{ password }}" hint="Password" />
-
             <Button text="Log In" tap="login" />
             <Button text="Sign Up" tap="signup" />
-            
         </StackLayout>
-	</ScrollView>
-</Page> -->
-<Page xmlns:sd="nativescript-ui-sidedrawer">
-    <sd:RadSideDrawer>
-    </sd:RadSideDrawer>
+    </ScrollView>
 </Page>

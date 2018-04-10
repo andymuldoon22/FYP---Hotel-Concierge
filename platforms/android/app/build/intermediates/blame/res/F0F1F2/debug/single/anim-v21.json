@@ -1,5 +1,13 @@
 [
     {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld - Copy\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld - Copy\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
         "source": "C:\\Users\\Owner\\.android\\build-cache\\add6cf848079acc5f6dcdffca6d4ecd6787a0820\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },

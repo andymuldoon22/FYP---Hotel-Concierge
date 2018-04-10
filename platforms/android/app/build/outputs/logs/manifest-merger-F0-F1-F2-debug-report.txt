@@ -1,42 +1,42 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
 	package
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:3:2-39
-		INJECTED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:3:2-39
-		INJECTED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\F1\AndroidManifest.xml
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:3:2-39
+		INJECTED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:3:2-39
+		INJECTED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\F1\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
-		INJECTED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
-		INJECTED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\F1\AndroidManifest.xml
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\F1\AndroidManifest.xml
 	android:versionCode
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:4:2-25
-		INJECTED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:4:2-25
-		INJECTED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\F1\AndroidManifest.xml
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\F1\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:2:11-69
 supports-screens
-ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:7:2-11:33
+ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:7:2-11:33
 	android:largeScreens
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:10:3-30
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:10:3-30
 	android:smallScreens
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:8:3-30
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:8:3-30
 	android:normalScreens
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:9:3-31
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:9:3-31
 	android:xlargeScreens
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:11:3-31
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:11:3-31
 uses-sdk
-ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
 MERGED from [com.orhanobut:hawk:2.0.1] C:\Users\Owner\.android\build-cache\3ee388021f77c4cddafe9aa06cac44173442f50f\output\AndroidManifest.xml:6:5-44
 MERGED from [com.facebook.conceal:conceal:1.1.3] C:\Users\Owner\.android\build-cache\44eb787dd02721c386ea02264e8c8a1623144030\output\AndroidManifest.xml:12:5-14:41
-MERGED from [:nativescript-optimized:] C:\Users\Owner\.android\build-cache\028a0a594830d2ed80089b4dab8682a1edf03cd8\output\AndroidManifest.xml:7:5-9:41
-MERGED from [:TNSListView-release:] C:\Users\Owner\.android\build-cache\f3e508922f87151d8f83c6b43b2333c9132a6ec6\output\AndroidManifest.xml:7:5-9:41
-MERGED from [:TNSSideDrawer-release:] C:\Users\Owner\.android\build-cache\9b572074721240fc46ab1a85268a037e063bc59c\output\AndroidManifest.xml:7:5-9:41
-MERGED from [:TNSCore-release:] C:\Users\Owner\.android\build-cache\d44bd39af6b02d4ddf94be1c052fab714ece3abd\output\AndroidManifest.xml:7:5-9:41
-MERGED from [:widgets-release:] C:\Users\Owner\.android\build-cache\e8ae01cb2c4fbe602826d0b0f01d5adcf0267901\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized:] C:\Users\Owner\.android\build-cache\c700555c0358f97b590ab00fa2be38d24a456c8d\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSListView-release:] C:\Users\Owner\.android\build-cache\702776615300c4682bb0616a30784d7b9354720a\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSSideDrawer-release:] C:\Users\Owner\.android\build-cache\a7fdfb39f9efc2fb01a967d98680a8f7dd4a66cf\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSCore-release:] C:\Users\Owner\.android\build-cache\8d8c7a4476decb920c48ccda487baad2039376b2\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\Owner\.android\build-cache\9cf7008dd59044e05c1525ec36099ffa8deaafec\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:design:25.3.1] C:\Users\Owner\.android\build-cache\add6cf848079acc5f6dcdffca6d4ecd6787a0820\output\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Owner\.android\build-cache\9984e58c41d46709f8ed37b9466f30727efa871b\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Owner\.android\build-cache\bcdb5c7a86e2c4a1977c8263fa6ea106b9b6a9d8\output\AndroidManifest.xml:20:5-44
@@ -52,29 +52,29 @@ MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Owner\.android\
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.3.1] C:\Users\Owner\.android\build-cache\add6cf848079acc5f6dcdffca6d4ecd6787a0820\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:15:3-32
-		INJECTED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\F1\AndroidManifest.xml
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:15:3-32
+		INJECTED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\F1\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
-		INJECTED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\F1\AndroidManifest.xml
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
+		INJECTED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\F1\AndroidManifest.xml
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:17:2-76
-MERGED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:17:2-76
+ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:17:2-76
+MERGED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:17:2-76
 	android:name
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:17:19-74
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:17:19-74
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:18:2-77
+ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:18:2-77
 	android:name
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:18:19-75
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:18:19-75
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:19:2-63
+ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:19:2-63
 	android:name
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:19:19-61
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:19:19-61
 application
-ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:21:2-42:16
-MERGED from [:widgets-release:] C:\Users\Owner\.android\build-cache\e8ae01cb2c4fbe602826d0b0f01d5adcf0267901\output\AndroidManifest.xml:11:5-12:19
+ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:21:2-42:16
+MERGED from [:widgets-release:] C:\Users\Owner\.android\build-cache\9cf7008dd59044e05c1525ec36099ffa8deaafec\output\AndroidManifest.xml:11:5-12:19
 MERGED from [com.android.support:design:25.3.1] C:\Users\Owner\.android\build-cache\add6cf848079acc5f6dcdffca6d4ecd6787a0820\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Owner\.android\build-cache\9984e58c41d46709f8ed37b9466f30727efa871b\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Owner\.android\build-cache\bcdb5c7a86e2c4a1977c8263fa6ea106b9b6a9d8\output\AndroidManifest.xml:26:5-20
@@ -87,45 +87,45 @@ MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Owner\.android
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Owner\.android\build-cache\232ebb1d5b4514fe6383cfb80926602c8a7147cc\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Owner\.android\build-cache\dd5091e58a2bf46fb9efdab1d4edcedb1a0d2e42\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:25:3-35
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:25:3-35
 	android:allowBackup
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:23:3-29
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:23:3-29
 	android:icon
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:24:3-32
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:24:3-32
 	android:theme
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:26:3-34
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:26:3-34
 	android:name
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:22:3-49
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:22:3-49
 activity#com.tns.NativeScriptActivity
-ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:28:3-40:14
+ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:28:3-40:14
 	android:label
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:30:4-49
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:30:4-49
 	android:configChanges
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:31:4-65
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:31:4-65
 	android:theme
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:32:4-44
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:32:4-44
 	android:name
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:29:4-47
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:29:4-47
 meta-data#SET_THEME_ON_LAUNCH
-ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:34:4-87
+ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:34:4-87
 	android:resource
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:34:50-84
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:34:50-84
 	android:name
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:34:15-49
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:34:15-49
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:36:4-39:20
+ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:36:4-39:20
 action#android.intent.action.MAIN
-ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:37:5-57
+ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:37:5-57
 	android:name
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:37:13-54
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:37:13-54
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:38:5-65
+ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:38:5-65
 	android:name
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:38:15-62
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:38:15-62
 activity#com.tns.ErrorReportActivity
-ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:41:3-57
+ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:41:3-57
 	android:name
-		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld\platforms\android\app\src\main\AndroidManifest.xml:41:13-55
+		ADDED from C:\Users\Owner\Desktop\FYP\HelloWorld - Copy\platforms\android\app\src\main\AndroidManifest.xml:41:13-55
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:25.3.1] C:\Users\Owner\.android\build-cache\add6cf848079acc5f6dcdffca6d4ecd6787a0820\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Owner\.android\build-cache\9984e58c41d46709f8ed37b9466f30727efa871b\output\AndroidManifest.xml:25:5-27:34

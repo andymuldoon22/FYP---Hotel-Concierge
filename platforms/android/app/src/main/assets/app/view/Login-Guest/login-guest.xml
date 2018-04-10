@@ -1,14 +1,13 @@
 <Page loaded="loaded">
-	<ActionBar title="LogIn">
-  </ActionBar>
-  	<ScrollView>
+    <ActionBar title="LogIn">
+    </ActionBar>
+    <ScrollView>
         <StackLayout orientation="vertical">
             <Image src="~/images/concierge.jpg" stretch="none" horizontalAlignment="center"></Image>
             <TextField id="username" text="{{ username }}" hint="username" autocorrect="false" autocapitalizationType="none" />
             <TextField id="pw" secure="true" text="{{ password }}" hint="Password" />
-
             <Button text="Log In" tap="login" />
-            <Button text="Sign Up" tap="signup" />     
+            <Button text="Sign Up" tap="signup" />
         </StackLayout>
-	</ScrollView>
+    </ScrollView>
 </Page>

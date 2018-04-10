@@ -1,32 +1,35 @@
-<Page loaded="service_login_loaded" xmlns:df="nativescript-pro-ui/dataform" xmlns="http://schemas.nativescript.org/tns.xsd" xmlns:dd="nativescript-drop-down" >
-    <ActionBar title="Request to join the app">
+<Page loaded="service_login_loaded" xmlns:df="nativescript-pro-ui/dataform" xmlns="http://schemas.nativescript.org/tns.xsd"
+    xmlns:dd="nativescript-drop-down">
+	<ActionBar title="Request to join the app">
 		<NavigationButton></NavigationButton>
 	</ActionBar>
 	<ScrollView sdkExampleTitle sdkToggleNavButton>
-    <StackLayout class="p-20">
-	    <!-- <Label text="Company Name"></Label>
+		<StackLayout class="p-20">
+			<!-- <Label text="Company Name"></Label>
 	    <TextField id="companyName" hint="Enter Company Name" ></TextField>
 		<Label text="Password"></Label>
 	    <TextField id="password" hint="Please enter a password" secure="true" text="{{ password }}" ></TextField>
 	    <Label text="Email Address"></Label>
 		<TextField id="companyEmail" hint="Enter Email Address" ></TextField> -->
-	    <Label text="Work Phone"></Label>
-		<TextField id="companyPhoneNo" keyboardType="number" hint="Enter Work Phone No." ></TextField>	    
-		<Label text="Address Line 1"></Label>
-		<TextField id="addressline1" hint="Enter Address Line 1" ></TextField>	    
-		<Label text="Address Line 2"></Label>
-		<TextField id="addressline2" hint="Enter Address Line 2" ></TextField>
-		<Label text="City"></Label>
-		<TextField id="city" hint="Enter City" ></TextField>
-		<Label text="County"></Label>
-		<dd:DropDown items="{{ countys }}" selectedIndex="{{ selectedCounty }}" opened="dropDownOpened" selectedIndexChanged="dropDownSelectedIndexChanged" />	
-		<Label text="Service Provided"></Label>
-		<dd:DropDown items="{{ services }}" selectedIndex="{{ selectedService }}" opened="dropDownOpened" selectedIndexChanged="dropDownSelectedIndexChanged" />
-		<Label text="Opening Hours"></Label>
-		<TimePicker loaded="onPickerLoadedOpening" timeChange="onTimeChangedOpening" verticalAlignment="center" class="m-15"></TimePicker>
-		<Label text="Closing Hours"></Label>
-		<TimePicker loaded="onPickerLoadedClosing" timeChange="onTimeChangedClosing" verticalAlignment="center" class="m-15"></TimePicker>	
-		<Button text="Submit" type="Submit" tap="submit"/>	    
-	</StackLayout>
+			<Label text="Work Phone"></Label>
+			<TextField id="companyPhoneNo" keyboardType="number" hint="Enter Work Phone No."></TextField>
+			<Label text="Address Line 1"></Label>
+			<TextField id="addressline1" hint="Enter Address Line 1"></TextField>
+			<Label text="Address Line 2"></Label>
+			<TextField id="addressline2" hint="Enter Address Line 2"></TextField>
+			<Label text="City"></Label>
+			<TextField id="city" hint="Enter City"></TextField>
+			<Label text="County"></Label>
+			<dd:DropDown items="{{ countys }}" selectedIndex="{{ selectedCounty }}" opened="dropDownOpened" selectedIndexChanged="dropDownSelectedIndexChanged"
+			/>
+			<Label text="Service Provided"></Label>
+			<dd:DropDown items="{{ services2 }}" selectedIndex="{{ selectedService }}" opened="dropDownOpened" selectedIndexChanged="dropDownSelectedIndexChanged"
+			/>
+			<Label text="Opening Hours"></Label>
+			<TimePicker loaded="onPickerLoadedOpening" timeChange="onTimeChangedOpening" verticalAlignment="center" class="m-15"></TimePicker>
+			<Label text="Closing Hours"></Label>
+			<TimePicker loaded="onPickerLoadedClosing" timeChange="onTimeChangedClosing" verticalAlignment="center" class="m-15"></TimePicker>
+			<Button text="Submit" type="Submit" tap="submit" />
+		</StackLayout>
 	</ScrollView>
 </Page>

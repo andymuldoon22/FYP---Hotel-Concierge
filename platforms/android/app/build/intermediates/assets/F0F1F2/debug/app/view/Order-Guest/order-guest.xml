@@ -1,17 +1,18 @@
 <Page xmlns:df="nativescript-pro-ui/dataform" xmlns="http://schemas.nativescript.org/tns.xsd" loaded="pageLoaded" xmlns:dd="nativescript-drop-down">
-    <ActionBar title="Order">
+	<ActionBar title="Order">
 	</ActionBar>
 	<ScrollView sdkExampleTitle sdkToggleNavButton>
-	    <StackLayout class="p-20">
-	    	<Label text="Company Preference"></Label>
-			<dd:DropDown items="{{ quality }}" selectedIndex="{{ selectedIndex2 }}" opened="dropDownOpened" selectedIndexChanged="dropDownSelectedIndexChanged" />
+		<StackLayout class="p-20">
+			<Label text="Company Preference"></Label>
+			<dd:DropDown items="{{ quality }}" selectedIndex="{{ selectedIndex2 }}" opened="dropDownOpened" selectedIndexChanged="dropDownSelectedIndexChanged"
+			/>
 
-	    	<Label text="Please select time for delivery"></Label>
-	    	<TimePicker loaded="onPickerLoaded" timeChange="onTimeChanged" verticalAlignment="center" class="m-15"></TimePicker>
-	    	<Label text="Please select date of delivery"></Label>
-	    	<DatePicker loaded="onPickerLoaded2" dateChange="onDateChanged" 
-			dayChange="onDayChanged" monthChange="onMonthChanged" yearChange="onYearChanged" verticalAlignment="center"></DatePicker>
-			<Button text="Submit" type="Submit" tap="submit"/>
+			<Label text="Please select time for delivery"></Label>
+			<TimePicker loaded="onPickerLoaded" timeChange="onTimeChanged" verticalAlignment="center" class="m-15"></TimePicker>
+			<Label text="Please select date of delivery"></Label>
+			<DatePicker loaded="onPickerLoaded2" dateChange="onDateChanged" dayChange="onDayChanged" monthChange="onMonthChanged" yearChange="onYearChanged"
+			    verticalAlignment="center"></DatePicker>
+			<Button text="Submit" type="Submit" tap="submit" />
 		</StackLayout>
 	</ScrollView>
 </Page>

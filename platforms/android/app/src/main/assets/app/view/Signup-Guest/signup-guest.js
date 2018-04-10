@@ -14,63 +14,68 @@ var viewModel = observable.Observable;
 var role;
 var roles;
 
-exports.loaded = function(args) {
-	console.log("signup-guest");
+exports.loaded = function (args) {
+
 	page = args.object;
 	roles = [
 		"guest",
 		"service-provider"
 	];
+
 	viewModel = new observable.Observable();
 	viewModel.set("role", roles);
 	viewModel.set("selectedRole", 0);
 
 	page.bindingContext = viewModel;
 
-	
 };
 
-exports.dropDownSelectedIndexChanged = function(args){
+exports.dropDownSelectedIndexChanged = function (args) {
 
-	console.log("dropDownSelectedIndexChanged");
+	// console.log("dropDownSelectedIndexChanged");
 };
 
-exports.dropDownOpened = function(args){	
-	console.log("dropDownOpened");
+exports.dropDownOpened = function (args) {
+	// console.log("dropDownOpened");
 };
 
 
-exports.signup = function(){
-	console.log('signIn');
+exports.signup = function () {
+
+	/*
+		Gets the role, email, name and password that was inputed to the signup page
+	*/
+
 	role = viewModel.get("selectedRole");
-	console.log(role);
-	console.log(roles[role]);
-    email = page.getViewById("email");
-	console.log(email.text);
+	email = page.getViewById("email");
 	name = page.getViewById("name");
-    console.log(name.text);
-    pw = page.getViewById("pw");
-	console.log(pw.text);
+	pw = page.getViewById("pw");
+
+	/*
+		Logs user out if the was one still logged in as you tried to sign up
+	*/
 	var promise = Kinvey.User.logout();
+
+	/*
+		Creates a new user based on the information given and goes to two different pages
+		based on what role was selected
+	*/
 	var promise = Kinvey.User.signup({
-		username: name.text,
-		email: email.text,
-		password: pw.text,
+			username: name.text,
+			email: email.text,
+			password: pw.text,
 			role: roles[role]
-	  })
-		.then(function(user) {
-		  // ...
-			console.log(user);
+		})
+		.then(function (user) {
 			var topmost = frameModule.topmost();
-			if (role = 1){
+			if (role = 1) {
 				topmost.navigate("view/Signup-ServiceProvider/signup-serviceprovider");
-			}else{
+			} else {
 				topmost.navigate("view/Main-Guest/main-guest");
 			}
 		})
-		.catch(function(error) {
-		  // ...
-		  console.log(error);
+		.catch(function (error) {
+			console.log(error);
 		});
-		
+
 };

@@ -3,16 +3,22 @@
 		<NavigationButton></NavigationButton>
 	</ActionBar>
 	<ScrollView sdkExampleTitle sdkToggleNavButton>
-		<ListView items="{{ myJobs }}" itemTap="image" >
+		<ListView items="{{ myJobs }}" itemTap="accept">
 			<ListView.itemTemplate>
-				<StackLayout orientation="horizontal">
-					<!-- <Image width="300px" height="200px" src="{{image}}" /> -->
-					<StackLayout orientation="vertical">
-					<Label id="Date" text="{{Date}}" class="h1 text-center"/>
-					<Label id="time" text="{{time}}" class="h2 text-center"/>
-                    <Label id="status" text="{{status}}" class="h2 text-center"/>
-					</StackLayout>
+				<!-- <StackLayout orientation="horizontal"> -->
+				<!-- <Image width="300px" height="200px" src="{{image}}" /> -->
+				<StackLayout orientation="vertical">
+					<Label id="product" text="{{productName, 'Product: ' + productName }}" textWrap="true" class="h1" />
+					<Label id="price" text="{{productPrice, 'Price: ' + productPrice }}" textWrap="true" class="h2" />
+					<Label id="Date" text="{{Date, 'Date: ' + Date }}" textWrap="true" class="h2" />
+					<Label id="time" text="{{time, 'Time: ' + time }}" class="h2" />
+					<Label id="status" text="{{status, 'Status: ' + status }}" class="h2" />
+					<!-- <StackLayout orientation="horizontal" class="center" >
+					<Button text="Decline Job" tap="decline" visibility="{{showDetails}}" class="b2"/>
+					<Button text="Accept Job" tap="accept" />
+					</StackLayout> -->
 				</StackLayout>
+				<!-- </StackLayout> -->
 			</ListView.itemTemplate>
 		</ListView>
 	</ScrollView>

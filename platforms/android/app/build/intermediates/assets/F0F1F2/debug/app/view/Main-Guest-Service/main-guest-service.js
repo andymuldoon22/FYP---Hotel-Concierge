@@ -7,53 +7,53 @@ var dataStore = Kinvey.DataStore.collection('ServiceProvider');
 // 0var dataStore2 = Kinvey.DataStore.collection('');
 var page;
 
-exports.guest_main = function(args) {
+exports.guest_main = function (args) {
 	page = args.object;
-	var gotData=page.navigationContext;
-    var servicename = gotData.param1;
+	var gotData = page.navigationContext;
+	var servicename = gotData.param1;
 	var dataStore2 = Kinvey.DataStore.collection("Florist");
 	viewModel = new observable.Observable();
 	var activeUser = Kinvey.User.getActiveUser();
 	console.log(activeUser);
 	var subscription = dataStore2.find()
-	.subscribe(function(entities) {
-		// ...
-		var services= [];
-		var images= [];
-		var age =[];
-		var age2 =[];
-		console.log(entities);
-		// var length = entities.length;
-		// if (length !== 0){
-		// 	for (i=0;i<length;i++){
-		// 		var thing = {service: entities[i].Flower};
-		// 		var thing2 = {image: entities[i].image};
-		// 		this.age = entities[i].Flower;
-		// 		this.age2 = entities[i].image;
-		// 		services.push(entities[i].Flower);
-		// 		images.push(entities[i].image);
-		// 		console.log("yes   "+this.age);
-		// 		console.log("yes 2.0   "+this.age2);
-		// 	}
-		// }
-		
+		.subscribe(function (entities) {
+			// ...
 
-		viewModel.set("myItems", entities);
-		console.log(viewModel.get("myItems"));
 
-		page.bindingContext = viewModel;
-	}, function(error) {
-		console.log(error);
-		// ...
-	}, function() {
-		// ...
-	});
+
+			viewModel.set("myItems", entities);
+			console.log(viewModel.get("myItems"));
+
+			page.bindingContext = viewModel;
+		}, function (error) {
+			console.log(error);
+			// ...
+		}, function () {
+			// ...
+		});
 
 
 };
 
-exports.image = function(){
-
+exports.image = function (args) {
+	// console.log(args.object);
+	var index = args.index;
+	var vm = viewModel.get("myItems", args.index);
+	var productName = vm[index].Flower;
+	var productID = vm[index]._id;
+	var serviceProviderID = vm[index].serviceProviderID;
+	var productPrice = vm[index].price;
+	var navigationOptions = {
+		moduleName: "view/Order-Guest/order-guest",
+		context: {
+			productName: productName,
+			productID: productID,
+			serviceProviderID: serviceProviderID,
+			productPrice: productPrice
+		}
+	}
 	var topmost = frameModule.topmost();
-	topmost.navigate("view/Order-Guest/order-guest");
+	topmost.navigate(navigationOptions);
+	// var topmost = frameModule.topmost();
+	// topmost.navigate("view/Order-Guest/order-guest");
 };

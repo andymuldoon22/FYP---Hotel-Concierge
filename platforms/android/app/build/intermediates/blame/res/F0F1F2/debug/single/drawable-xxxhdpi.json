@@ -1,11 +1,23 @@
 [
     {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld - Copy\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-xxxhdpi\\logo.png",
+        "source": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld - Copy\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\logo.png"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-xxxhdpi\\background.png",
         "source": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\background.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-xxxhdpi\\logo.png",
         "source": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld - Copy\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-xxxhdpi\\icon.png",
+        "source": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld - Copy\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld - Copy\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-xxxhdpi\\background.png",
+        "source": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld - Copy\\platforms\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\background.png"
     },
     {
         "merged": "C:\\Users\\Owner\\Desktop\\FYP\\HelloWorld\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-xxxhdpi\\icon.png",
